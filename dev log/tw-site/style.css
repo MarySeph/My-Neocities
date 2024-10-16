@@ -127,52 +127,11 @@ a:hover {
     color: var(--link-color);
 }
 
-#sidebar {
-    background: var(--bg-color);
-    min-width: 220px;
-    margin: 1em;
-    padding: 1em;
-    border: 2px dotted var(--link-color);
-    box-shadow: var(--button-color) 8px 8px 20px;
-    border-radius: 2em;
-}
-
-#avatar {
-    margin: .5em auto;
-    /* image size is 160px so i made its container a little bigger to fit the borders */
-    max-width: 164px;
-    max-height: 164px;
-    border-radius: 8em;
-}
-
-#avatar img {
-    background: var(--bg-color2);
-    border: 2px solid var(--button-color);
-    max-width: 160px;
-    border-radius: 8em;
-}
-
-#bio {
-    margin: 2em 1em;
-    background: var(--bg-color2);
-    border: 1px solid var(--button-color);
-    border-radius: 1em;
-}
-
-#bio p {
-    margin: 1em;
-}
-
-#content {
-    display: flex;
-    max-width: 960px;
-    margin: auto;
-}
-
 main {
     background-color: var(--bg-color);
     padding: 1em 2em;
-    margin: 1em;
+    margin: 2.5em auto;
+    width: 80%;
     border: 2px dotted var(--link-color);
     box-shadow: var(--button-color) 8px 8px 20px;
     border-radius: 2em;
