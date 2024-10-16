@@ -139,31 +139,45 @@ a:hover {
     border-radius: 2em;
 }
 
-#avatar {
-    margin: .5em auto;
-    /* image size is 160px so i made its container a little bigger to fit the borders */
-    max-width: 164px;
-    max-height: 164px;
+.container {
+    padding: 0.6em;
+    width: fit-content;
+    margin: auto;
+}
+
+.icon {
+    display: inline-block;
+    max-width: 130px;
+    margin-right: .5em;
     border-radius: 8em;
 }
 
-#avatar img {
-    background: var(--bg-color2);
-    border: 2px solid var(--button-color);
-    max-width: 160px;
-    border-radius: 8em;
+.bio {
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: top;
+    margin: auto;
 }
 
-#bio {
-    margin: 2em 1em;
+.bio h1{
+    margin: 0;
+    text-align: left;
+    font-size: 17pt;
+    padding: .2em;
+}
+
+.bubble {
+    display: inline-block;
     background: var(--bg-color2);
     border: 1px solid var(--button-color);
-    border-radius: 1em;
+    margin: auto;
+    border-radius: .8em;
+    padding: .4em 1em;
+    min-width: 200px;
+    font-size: 11pt;
+    text-align: left;
 }
 
-#bio p {
-    margin: 1em;
-}
 
 #content {
     display: flex;
@@ -229,11 +243,17 @@ footer {
         margin: .4em;
     }
 
-    #avatar {
+    #icon {
         margin: 0 1em;
     }
 
-    #bio {
+    .container {
+        padding: 0.6em;
+        width: fit-content;
+        margin: auto;
+    }
+
+    .bio {
         width: 50%;
     }
 
