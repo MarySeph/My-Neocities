@@ -145,6 +145,12 @@ main>h3 {
     padding: .2em .5em;
 }
 
+.container {
+    padding: 0.6em;
+    width: fit-content;
+    margin: auto;
+}
+
 /* a class for centering text and images */
 .center {
     text-align: center;
@@ -153,6 +159,10 @@ main>h3 {
 /* made this a class so i can change it to be centered on mobile */
 .img-right {
     float: right;
+}
+
+img{
+    max-width: 400px;
 }
 
 footer {
