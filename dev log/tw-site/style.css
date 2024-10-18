@@ -206,6 +206,8 @@ footer {
 
     main {
         margin: 0 1em;
+        width: fit-content;
+        width: 90%;
     }
 
     #sidebar ul {
@@ -223,6 +225,13 @@ footer {
     .img-right {
         float: none;
         text-align: center;
+    }
+
+    .container {
+        padding: 0.6em;
+        width: fit-content;
+        margin: auto;
+        max-width: 200px;
     }
 
     footer {
