@@ -6,38 +6,57 @@
         <title>Mary's Creative Corner</title>
         <meta name="author" content="MarySeph">
         <meta name="description" content="a new website">
-        <link href="style.css" rel="stylesheet" type="text/css" media="all">
+        <link href="style-h3.css" rel="stylesheet" type="text/css" media="all">
     </head>
     <body>
         
+        <header>
+            <h1>Mary's Creative Corner</h1>
+        </header>
+
     <div id="content">
         
-    <div id="sidebar">
-        <div id="avatar">
-            <img src="images/icon 1.png" alt="my icon!" class="center">
-        </div>
-        
-        <div id="bio">
-            <p>creative hobbyist.<br><strong>pronouns:</strong> they/them</p>
-        </div>
-        
-        <div id="note">
-            <p><small><strong>dev notes:</strong> move avatar and icon to main column(?)</small></p>
+    <aside id="sidebar">
+        <div id="icon">
+            <img src="/images/icon 1.png" alt="my icon!">
         </div>
 
-        <div>
+        <div id="bio">
+            <p>creative hobbyist</p>
+        </div>
+
+        <div class="small-box">
+            <ul>
+                <li>age: 26</li>
+                <li>pronouns: they/them </li>
+            </ul>
+        </div>
+
+        <nav>
             <ul class="sidebar-nav">
                 <li><a href="/index.html">home</a></li>
                 <li><a href="/dev log/dev-log.html">dev log</a></li>
                 <li><a href="/writing/writing.html">writing</a></li>
                 <li><a href="/crafts/crafts.html">crafts</a></li>
             </ul>
-        </div>
+        </nav>
 
-    </div>
+    </aside>
         
     <main>
+        <div class="container">
+            <img src="/images/icon 1.png" alt="maryseph icon" class="icon" title="my icon!">
+            
+            <section class="bio">
+                <h1>Mary Seph</h1>
+                <div class="bubble">
+                    <p>creative hobbyist.<br><strong>pronouns:</strong> they/them</p>
+                </div>
+            </section>
 
+        </div>
+
+        
         <h1>welcome to my site!</h1>
         <p>Hullo! My name is Mary!</p>
         <p>This is my first neocities site. I want to make this a space to share my creative hobbies like crochet, creative writing, and web development.</p>
@@ -51,7 +70,7 @@
         <li>crafts</li>
         </ul>
         <br>
-        <small>last updated: 10/14/2024</small>
+        <small>last updated: 10/15/2024</small>
     </main>
     
     </div>
