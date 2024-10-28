@@ -66,14 +66,14 @@ header h1 {
     text-shadow: var(--accent-color) 4px 4px .5em;
 }
 
-nav {
+.sidebar-nav {
     /*padding: 1em;*/
     margin-top: 1em;
     font-weight: bold;
     font-size: 1.1em
 }
 
-nav ul {
+.sidebar-nav {
     max-width: 960px;
     margin: auto;
     line-height: 3rem;
@@ -90,11 +90,11 @@ nav ul {
     gap: 4px
 }
 
-nav li {
+.sidebar-nav li {
     text-align: center;
 }
 
-nav li>a {
+.sidebar-nav li>a {
     background-color: var(--button-color);
     padding: .65em 3em;
     box-shadow: var(--bg-color2) 0 0 6px;
@@ -102,11 +102,11 @@ nav li>a {
     text-decoration: none;
 }
 
-nav li>a:visited {
+.sidebar-nav li>a:visited {
     color: var(--link-color);
 }
 
-nav li>a:hover {
+.sidebar-nav li>a:hover {
     background-color: var(--favorite-color);
     box-shadow: var(--bg-color) 0 0 6px;
     color: var(--text-color);
@@ -123,15 +123,72 @@ a {
 a:visited {
     color: var(--text-color);
 }
+
 a:hover {
     color: var(--link-color);
+}
+
+
+#sidebar {
+    background: var(--bg-color);
+    min-width: 220px;
+    margin: 1em;
+    padding: 1em;
+    border: 2px dotted var(--link-color);
+    box-shadow: var(--button-color) 8px 8px 20px;
+    border-radius: 2em;
+}
+
+.container {
+    padding: 0.6em;
+    width: fit-content;
+    margin: auto;
+}
+
+.icon {
+    display: inline-block;
+    max-width: 130px;
+    margin-right: .5em;
+    border-radius: 8em;
+}
+
+.bio {
+    display: inline-block;
+    max-width: 300px;
+    vertical-align: top;
+    margin: auto;
+}
+
+.bio h1{
+    margin: 0;
+    text-align: left;
+    font-size: 17pt;
+    padding: .2em;
+}
+
+.bubble {
+    display: inline-block;
+    background: var(--bg-color2);
+    border: 1px solid var(--button-color);
+    margin: auto;
+    border-radius: .8em;
+    padding: .4em 1em;
+    min-width: 200px;
+    font-size: 11pt;
+    text-align: left;
+}
+
+
+#content {
+    display: flex;
+    max-width: 960px;
+    margin: auto;
 }
 
 main {
     background-color: var(--bg-color);
     padding: 1em 2em;
-    margin: 2.5em auto;
-    width: 80%;
+    margin: 1em;
     border: 2px dotted var(--link-color);
     box-shadow: var(--button-color) 8px 8px 20px;
     border-radius: 2em;
@@ -186,11 +243,17 @@ footer {
         margin: .4em;
     }
 
-    #avatar {
+    #icon {
         margin: 0 1em;
     }
 
-    #bio {
+    .container {
+        padding: 0.6em;
+        width: fit-content;
+        margin: auto;
+    }
+
+    .bio {
         width: 50%;
     }
 
