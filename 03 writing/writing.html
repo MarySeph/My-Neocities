@@ -1,47 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Mary's Writing Corner</title>
-        <meta name="author" content="MarySeph">
-        <meta name="description" content="a new website">
-        <link href="style.css" rel="stylesheet" type="text/css" media="all">
-    </head>
-    <body>
-        <iframe src="/header.html"
-            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    <div id="content">
-        
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mary's Writing Corner | Writings</title>
+    <meta name="author" content="MarySeph">
+    <meta name="description" content="a new website">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body>
+<div id="container">
+<header id="header">
     <nav>
-        <ul>
-            <li><a href="/index.html">home</a></li>
-            <li><a href="/01 now/now.html">now</a></li>
-            <li><a href="/02 dev log/dev-log.html">dev log</a></li>
-            <li><a href="/03 writing/writing.html">writing</a></li>
-            <li><a href="/04 crafts/crafts.html">crafts</a></li>
-        </ul>
+        <iframe src="/nav.html"
+                onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
     </nav>
-        
-    <main>
+ </header>
 
+<main id="content">
         <h1>Writing</h1>
-        <h2>Seeds</h2>
-        <ul>
-            <li><a href="">A world where sensitives are the majority</a></p>
-            <li><a href="">The Snow Child - Historical Fiction</a></li>
-        </ul>
-            
+        <p>a list of creative writing endeavors.</p>
 
-            <h2>Longform</h2>
-            <ul>
-                <li><a href="">A Little Story About Tadashi and Dashi</a></li>
-            </ul>
-
+        <p><a href="/03 writing/02 indices/mysisterisautistic.html">My Sister is Autistic</a></p>
+    
         <br>
-        <small>last updated: 10/20/2024</small>
         
-    </div>
-        <iframe src="/footer.html" onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
-    </body>
+        <iframe src="/backtotop.html"
+            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+    
+        <iframe src="/footer.html"
+            onload="this.before((this.contentDocument.body||this.contentDocument).children[0]);this.remove()"></iframe>
+
+</div>
+</body>
 </html>
