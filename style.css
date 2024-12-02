@@ -1,10 +1,10 @@
 /* Default colors */
 :root {
 	--color: #011523;
-		--background: #d6fcfc;
+	--background: #d6fcfc;
 	
-		--link: #23237b;
-		--linkhover: #8DA399;
+	--link: #23237b;
+	--linkhover: #8DA399;
 	
 	--formbg:#f4f1e9;
 	--formcolor:#212c2c;
