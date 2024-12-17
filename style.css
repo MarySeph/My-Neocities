@@ -221,6 +221,15 @@ main footer {
 	padding:10px;
 }
 
+#site-updates {
+	max-height: 300px;
+	overflow: auto;
+	scrollbar-width: thin;
+	scrollbar-color: var(--formbg) var(--link);
+	font-size: 17px;
+	padding: 20px;
+}
+
 @media (prefers-color-scheme: dark) {
 
 	main img {
