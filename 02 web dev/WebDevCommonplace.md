@@ -1,5 +1,5 @@
 # Commonplace Notebook: Web Dev
-Table of contents: [[Web Dev Commonplace#Web Dev Resources]] / [[Web Dev Commonplace#Cool Sites!]] / [[Web Dev Commonplace#Web Rings/Cliques]]
+Table of contents: [[WebDevCommonplace#Web Dev Resources]] / [[WebDevCommonplace#Cool Sites!]] / [[WebDevCommonplace#Web Rings/Cliques]]
 
 an all-in one notebook of things I want to play around with regarding this site.
 

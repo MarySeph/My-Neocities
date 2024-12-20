@@ -1,5 +1,5 @@
 # Dev Log: Neocities Site
-Table of contents: [[Neocities-Site#Site Plans]] / [[Neocities-Site#Stuff to Fix]] / [[Neocities-Site#Links]] / [[Neocities-Site#Color schemes]] / [[Neocities-Site#Credits]]
+Table of contents: [[NeocitiesSite#Site Plans]] / [[NeocitiesSite#Stuff to Fix]] / [[NeocitiesSite#Links]] / [[NeocitiesSite#Color schemes]] / [[NeocitiesSite#Credits]]
 
 A page to highlight some elements of this site on the web dev side.
 
@@ -12,7 +12,7 @@ A page to highlight some elements of this site on the web dev side.
 - HSP/self care resources: Ambience music, Meditation (link to Medito), ASMR, etc.
 - Website Button!
 - ~~add [ghost garden's](https://ghostgarden.neocities.org/) TOC style to some pages.~~
-- [[Neocities-Site#<h2 id="credits">Credits</h2>]] section
+- [[NeocitiesSite#<h2 id="credits">Credits</h2>]] section
 - ~~Clap and access counters~~
 - ~~Create Crafts page~~
 - ~~Scroll bar to site updates in [[Welcome|homepage]].~~
@@ -20,7 +20,7 @@ A page to highlight some elements of this site on the web dev side.
 - ~~Minimalist layout.~~
 - ~~Nav: Home, Now, Dev Log, Writing, Crafts, Guestbook (Contact), Links~~
 - ~~Template page~~
-- Website buttons wall (see [[Web Dev Commonplace| below]])
+- Website buttons wall (see [[WebDevCommonplace| below]])
 - ~~Guestbook~~
 - ~~Now page.~~
 - ~~Site updates log.~~
@@ -32,7 +32,7 @@ A page to highlight some elements of this site on the web dev side.
 - ~~alt image descriptions~~
 - Img width in <a href="/02 dev log/tw-site/07.01.2024.html">[[this]] log</a> and <a href="/02 dev log/tw-site/07.03.24.html">[[this one]]</a>.
 - ~~(Check ul text-decoration style, probs set to "none") Links in light mode's main tag aren't underlined so it's hard to know what's clickable and not grrr...~~
-- Add table of contents to [[SVSS English|SVSSS Reading Notes]]. [This webpage](https://css-tricks.com/a-perfect-table-of-contents-with-html-css[/) may help.
+- Add table of contents to [[SVSSEnglish|SVSSS Reading Notes]]. [This webpage](https://css-tricks.com/a-perfect-table-of-contents-with-html-css[/) may help.
 
   
 ## Links

@@ -27,5 +27,5 @@ sites from other indie web developers.
 
 ## Vibing
 
-- [[Nature-inspired Art]] - Ambient music.
+- [[Nature-inspiredArt]] - Ambient music.
 - [Umineko Beats to Dance to](https://open.spotify.com/playlist/5WnPqI707Kjouuz3QQpWRT?si=170747dbe9694c52) - Some sick EDM and violin songs from the visual novel.

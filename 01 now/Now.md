@@ -4,7 +4,7 @@ this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Check back later.
 **Watching**: Umineko no Naku Koro Ni Episode 7.
 **Writing**: Drafting a historical fiction, omegaverse fic.
-**Crafting**: [[2024 Xmas Presents]]
+**Crafting**: [[2024XmasPresents]]
 **Developing**: This site.
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.
@@ -44,9 +44,9 @@ I'm considering renaming this page with journal/dairy or something that implies 
 
 Quick update because I didn't want to leave the previous one for long.
 
-In a much better mental place mentally. I made a page about [[Nature-inspired Art| nature inspired art]] a sort of commonplace about artists and their work blending art and science and inspired by other-than-human beings. So far, there's mostly music, technically of the ambient variety. I really like the genre. So that's what you're getting.
+In a much better mental place mentally. I made a page about [[Nature-inspiredArt| nature inspired art]] a sort of commonplace about artists and their work blending art and science and inspired by other-than-human beings. So far, there's mostly music, technically of the ambient variety. I really like the genre. So that's what you're getting.
 
-I also added [[OSOM| my first fiction short story]]! Woohoo! You have not idea for how long it's been taking space in my brain. Too long!
+I also added [[Out of Sight, Out of Mind| my first fiction short story]]! Woohoo! You have not idea for how long it's been taking space in my brain. Too long!
 
 I feel like I'm in that state where I'm letting go of things. Mental clutter is a real thing for me and having materialized those two products is so liberating. I want to keep up this momentum. The year is ending and because I have the habit of making a year in review, mental decluttering has been unconsciously rising as a priority.
 

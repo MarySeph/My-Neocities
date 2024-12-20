@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/neocities/site-updates.md",
+                "file": "03 writing/SVSSEnglish.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "site-updates"
+              "title": "SVSSEnglish"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 web dev/neocities/site-updates.md"
+                "file": "03 writing/SVSSEnglish.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of site-updates"
+              "title": "Outline of SVSSEnglish"
             }
           }
         ],
@@ -168,20 +168,20 @@
   },
   "active": "9fdc7be28dc1b808",
   "lastOpenFiles": [
-    "02 web dev/neocities/Neocities-Site.md",
-    "02 web dev/Web Dev.md",
-    "02 web dev/Web Dev Commonplace.md",
+    "03 writing/03 longform/Out of Sight, Out of Mind.md",
+    "06 links/Nature-inspiredArt.md",
+    "04 crafts/LaundryHamper.md",
+    "04 crafts/GrannyHexagonBlanket.md",
+    "04 crafts/2024XmasPresents.md",
+    "03 writing/SVSSEnglish.md",
+    "02 web dev/WebDevCommonplace.md",
+    "02 web dev/WebDev.md",
+    "02 web dev/neocities/NeocitiesSite.md",
+    "02 web dev/neocities/SiteUpdates.md",
     "Welcome.md",
-    "06 links/Nature-inspired Art.md",
     "06 links/Links.md",
-    "04 crafts/Laundry Hamper.md",
-    "04 crafts/Granny Hexagon Blanket.md",
     "04 crafts/Crafts.md",
-    "04 crafts/2024 Xmas Presents.md",
-    "03 writing/03 longform/OSOM.md",
-    "03 writing/SVSS English.md",
     "03 writing/Writing.md",
-    "02 web dev/neocities/site-updates.md",
     "01 now/Now.md",
     "images/site_button.gif",
     "images/Screenshot 2024-07-06 18.54.00.PNG",
