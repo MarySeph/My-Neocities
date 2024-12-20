@@ -1,1 +1,0 @@
-soource code of my neocities website.

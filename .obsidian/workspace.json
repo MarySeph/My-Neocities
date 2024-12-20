@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "7deaa14b3dfa4c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f107bdf0f7fdf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fdc7be28dc1b808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 web dev/neocities/site-updates.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "site-updates"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53221a2617a9d988",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b04b9acfd87ea4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c16295c9acd2a9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f11d1770796b8cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d311c5bccc46f2bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "76e33c0abeb3f334",
+    "type": "split",
+    "children": [
+      {
+        "id": "d59e9d076fcd0b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8035473ca0755cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b73eccdad9c7b80c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "570bc399338f34a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4cebf153f22bd82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 web dev/neocities/site-updates.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of site-updates"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9fdc7be28dc1b808",
+  "lastOpenFiles": [
+    "02 web dev/neocities/Neocities-Site.md",
+    "02 web dev/Web Dev.md",
+    "02 web dev/Web Dev Commonplace.md",
+    "Welcome.md",
+    "06 links/Nature-inspired Art.md",
+    "06 links/Links.md",
+    "04 crafts/Laundry Hamper.md",
+    "04 crafts/Granny Hexagon Blanket.md",
+    "04 crafts/Crafts.md",
+    "04 crafts/2024 Xmas Presents.md",
+    "03 writing/03 longform/OSOM.md",
+    "03 writing/SVSS English.md",
+    "03 writing/Writing.md",
+    "02 web dev/neocities/site-updates.md",
+    "01 now/Now.md",
+    "images/site_button.gif",
+    "images/Screenshot 2024-07-06 18.54.00.PNG",
+    "images/Screenshot 2024-07-06 18.46.00.PNG",
+    "images/Screenshot 2024-07-06 18.41.00.PNG",
+    "images/Screenshot 2024-07-04 19.30.00.PNG",
+    "images/Screenshot 2024-07-03 21.52.00.PNG",
+    "images/Screenshot 2024-07-03 20.50.00.PNG",
+    "images/Screenshot 2024-07-03 20.12.00.PNG",
+    "images/Screenshot 2024-07-03 19.54.00.PNG",
+    "images/Screenshot 2024-07-03 17.14.00.PNG",
+    "images",
+    "nav.md",
+    "03 writing/03 longform",
+    "02 web dev/tw-site",
+    "02 web dev/neocities",
+    "06 links",
+    "04 crafts",
+    "03 writing",
+    "02 web dev",
+    "01 now",
+    "New folder"
+  ]
+}
