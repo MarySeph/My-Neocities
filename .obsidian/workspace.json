@@ -11,15 +11,10 @@
             "id": "9fdc7be28dc1b808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 writing/SVSSEnglish.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SVSSEnglish"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -168,19 +163,19 @@
   },
   "active": "9fdc7be28dc1b808",
   "lastOpenFiles": [
+    "04 crafts/Crafts.md",
+    "03 writing/SVSSEnglish.md",
     "03 writing/03 longform/Out of Sight, Out of Mind.md",
     "06 links/Nature-inspiredArt.md",
     "04 crafts/LaundryHamper.md",
     "04 crafts/GrannyHexagonBlanket.md",
     "04 crafts/2024XmasPresents.md",
-    "03 writing/SVSSEnglish.md",
     "02 web dev/WebDevCommonplace.md",
     "02 web dev/WebDev.md",
     "02 web dev/neocities/NeocitiesSite.md",
     "02 web dev/neocities/SiteUpdates.md",
     "Welcome.md",
     "06 links/Links.md",
-    "04 crafts/Crafts.md",
     "03 writing/Writing.md",
     "01 now/Now.md",
     "images/site_button.gif",
