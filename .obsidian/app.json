@@ -2,7 +2,7 @@
   "livePreview": false,
   "tabSize": 4,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "attachmentFolderPath": "Cards/Files",
   "fileSortOrder": "byModifiedTime",
   "mobileToolbarCommands": [
@@ -22,7 +22,7 @@
     "editor:toggle-checklist-status",
     "editor:configure-toolbar"
   ],
-  "newFileFolderPath": "+ Inbox/New Ideas",
+  "newFileFolderPath": "/",
   "mobilePullAction": "file-explorer:move-file",
   "promptDelete": true,
   "useMarkdownLinks": false,

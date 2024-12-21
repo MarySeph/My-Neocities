@@ -8,13 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fdc7be28dc1b808",
+            "id": "ed3be52c409d748a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02 web dev/tw-site/TwSite.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TwSite"
             }
           }
         ],
@@ -161,8 +166,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fdc7be28dc1b808",
+  "active": "ed3be52c409d748a",
   "lastOpenFiles": [
+    "06.26.2024.md",
+    "Introduction.md",
+    "02 web dev/tw-site/TwSite.md",
+    "02 web dev/tw-site/06.17.2024.md",
+    "02 web dev/tw-site",
+    "tw-site.html",
+    "cohost-intro.html",
+    "08.16.2024 .html",
+    "07.29.2024.html",
+    "07.03.24.html",
+    "07.01.2024.html",
+    "06.26.2024 .html",
+    "06.17.2024.html",
+    "02 web dev/neocities-site/site-updates.html",
+    "00 templates/nami/periwinkle/images/photo6.png",
+    "00 templates/nami/periwinkle/images/photo5.png",
+    "00 templates/nami/periwinkle/images/photo4.png",
+    "00 templates/nami/periwinkle/images/photo2.png",
+    "00 templates/nami/periwinkle/images/photo3.png",
+    "00 templates/nami/periwinkle/images/photo1.png",
+    "00 templates/nami/periwinkle/images/periwinkle.png",
+    "00 templates/nami/periwinkle/images/icon.png",
+    "00 templates/nami/periwinkle/images/header.png",
+    "00 templates/nami/periwinkle/images/flowertile.png",
     "04 crafts/Crafts.md",
     "03 writing/SVSSEnglish.md",
     "03 writing/03 longform/Out of Sight, Out of Mind.md",
@@ -178,26 +207,6 @@
     "06 links/Links.md",
     "03 writing/Writing.md",
     "01 now/Now.md",
-    "images/site_button.gif",
-    "images/Screenshot 2024-07-06 18.54.00.PNG",
-    "images/Screenshot 2024-07-06 18.46.00.PNG",
-    "images/Screenshot 2024-07-06 18.41.00.PNG",
-    "images/Screenshot 2024-07-04 19.30.00.PNG",
-    "images/Screenshot 2024-07-03 21.52.00.PNG",
-    "images/Screenshot 2024-07-03 20.50.00.PNG",
-    "images/Screenshot 2024-07-03 20.12.00.PNG",
-    "images/Screenshot 2024-07-03 19.54.00.PNG",
-    "images/Screenshot 2024-07-03 17.14.00.PNG",
-    "images",
-    "nav.md",
-    "03 writing/03 longform",
-    "02 web dev/tw-site",
-    "02 web dev/neocities",
-    "06 links",
-    "04 crafts",
-    "03 writing",
-    "02 web dev",
-    "01 now",
-    "New folder"
+    "nav.md"
   ]
 }
