@@ -5,17 +5,17 @@ a collection of leads to other parts of the web.
 
 ## Buttons
 sites from other indie web developers.
-<a href=""><img src="/images/dokodemobutton3.gif"></a>
-![[dokodemobutton3.gif| 100]](https://dokode.moe/)
-<a href="https://nekonokuni.neocities.org/"><img src='/images/button.png'/></a>
-<a href="https://oaaky.neocities.org/"><img src="/images/AdTgkj9.png"></a>
-<a href="https://xandra.cc/"><img src="/images/88x31-by-rosedryad.png"></a>
-<a href="https://nomnomnami.com/"><img src="/images/site_button.gif"></a>
-<a href="https://rainstormsinjuly.co/"><img src="/images/dannarchy.gif"></a>
-<a href="https://desertjaguar.casa/"><img src="/images/buttondip.png"></a>
-<a href="https://kalechips.net/"><img src="/images/button (1).png"></a>
-<a href="https://www.beepbird.net/"><img src="/images/OwlBanner.gif"></a>
-<!--<a href=""><img src="">[add new button]</a>-->
+
+<a href="https://dokode.moe">![[dokodemobutton3.gif| 100]]</a>
+<a href="https://nekonokuni.neocities.org">![[button.png |100]]</a>
+<a href="https://oaaky.neocities.org/">![[AdTgkj9.png|100]]</a>
+<a href="https://xandra.cc/">![[88x31-by-rosedryad.png|100]]</a>
+<a href="https://nomnomnami.com/">![[site_button.gif|100]]</a>
+<a href="https://rainstormsinjuly.co/">![[dannarchy.gif|100]]</a>
+<a href="https://desertjaguar.casa/">![[buttondip.png|100]]<a>
+<a href="https://kalechips.net/">![[button (1).png|100]]</a>
+<a href="https://www.beepbird.net/">![[OwlBanner.gif|100]]</a>
+<!--<a href="">![[#]]</a>-->
 
 ## Web Rings
 <a href="https://cwr.beesbuzz.biz/redirect?dir=prev&from=https%3A%2F%2Fmaryseph.neocities.org%2F">&larr;</a> &#124; <a href="https://cwr.beesbuzz.biz/">Ex-Cohost Webring</a> &#124; <a href="https://cwr.beesbuzz.biz/redirect?from=https%3A%2F%2Fmaryseph.neocities.org%2F">&rarr;</a>
