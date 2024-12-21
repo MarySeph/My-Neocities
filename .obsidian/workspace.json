@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed3be52c409d748a",
+            "id": "e369a08093aa8548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/tw-site/TwSite.md",
-                "mode": "preview",
+                "file": "Home.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TwSite"
+              "title": "Home"
             }
           }
         ],
@@ -166,10 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed3be52c409d748a",
+  "active": "e369a08093aa8548",
   "lastOpenFiles": [
-    "02 web dev/tw-site/Introduction.md",
+    "Sitemap.md",
+    "Accessibility.md",
+    "Home.md",
     "02 web dev/tw-site/TwSite.md",
+    "02 web dev/tw-site/Introduction.md",
     "02 web dev/tw-site/08.16.2024.md",
     "02 web dev/tw-site/07.29.2024.md",
     "02 web dev/tw-site/07.03.2024.md",
@@ -209,10 +212,7 @@
     "02 web dev/WebDev.md",
     "02 web dev/neocities/NeocitiesSite.md",
     "02 web dev/neocities/SiteUpdates.md",
-    "Welcome.md",
     "06 links/Links.md",
-    "03 writing/Writing.md",
-    "01 now/Now.md",
-    "nav.md"
+    "03 writing/Writing.md"
   ]
 }

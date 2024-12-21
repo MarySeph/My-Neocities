@@ -15,7 +15,7 @@ A page to highlight some elements of this site on the web dev side.
 - [[NeocitiesSite#<h2 id="credits">Credits</h2>]] section
 - ~~Clap and access counters~~
 - ~~Create Crafts page~~
-- ~~Scroll bar to site updates in [[Welcome|homepage]].~~
+- ~~Scroll bar to site updates in [[Home|homepage]].~~
 - Check [here](https://kalechips.net/), [here](https://aarix.neocities.org/, aaaand [here](https://www.w3schools.com/tags/tag_iframe.AS) for reference.
 - ~~Minimalist layout.~~
 - ~~Nav: Home, Now, Dev Log, Writing, Crafts, Guestbook (Contact), Links~~
