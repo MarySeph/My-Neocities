@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83f107bdf0f7fdf1",
+        "id": "561f6a522eeb1a60",
         "type": "tabs",
         "children": [
           {
-            "id": "e369a08093aa8548",
+            "id": "24d4ae425574385f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "06 links/Nature-inspiredArt.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Nature-inspiredArt"
             }
           }
         ],
@@ -166,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e369a08093aa8548",
+  "active": "24d4ae425574385f",
   "lastOpenFiles": [
+    "06 links/Links.md",
+    "Home.md",
     "Sitemap.md",
     "Accessibility.md",
-    "Home.md",
     "02 web dev/tw-site/TwSite.md",
     "02 web dev/tw-site/Introduction.md",
     "02 web dev/tw-site/08.16.2024.md",
@@ -212,7 +213,6 @@
     "02 web dev/WebDev.md",
     "02 web dev/neocities/NeocitiesSite.md",
     "02 web dev/neocities/SiteUpdates.md",
-    "06 links/Links.md",
     "03 writing/Writing.md"
   ]
 }

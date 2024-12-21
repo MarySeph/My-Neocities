@@ -5,8 +5,8 @@ a collection of leads to other parts of the web.
 
 ## Buttons
 sites from other indie web developers.
-<a href="https://dokode.moe/"><img src="/images/dokodemobutton3.gif"></a>
-![[dokodemobutton3.gif]]
+<a href=""><img src="/images/dokodemobutton3.gif"></a>
+![[dokodemobutton3.gif| 100]](https://dokode.moe/)
 <a href="https://nekonokuni.neocities.org/"><img src='/images/button.png'/></a>
 <a href="https://oaaky.neocities.org/"><img src="/images/AdTgkj9.png"></a>
 <a href="https://xandra.cc/"><img src="/images/88x31-by-rosedryad.png"></a>
