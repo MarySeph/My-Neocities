@@ -34,7 +34,7 @@ In general, I tried to keep the yarn on the weight 4 category. This an all other
 The mix of colors and the strap are the only modification I made.
 
 ## Cross-shaped Bookmarks
-Pattern:[Granny Square Cross Bookmark by Hopeful Turns](https://youtu.be/Wl5yxQ_KgCg?si=eJ0mfdL-B_ac4h5j).
+Pattern: [Granny Square Cross Bookmark by Hopeful Turns](https://youtu.be/Wl5yxQ_KgCg?si=eJ0mfdL-B_ac4h5j).
 
 ![[1734464982681-1.jpg]]
 
@@ -52,7 +52,7 @@ Pattern:[Granny Square Cross Bookmark by Hopeful Turns](https://youtu.be/Wl5yxQ_
 Some people in my family are devoted catholics. So when I saw this pattern from Hopeful Turns, I thought they would like this to use while reading the Bibles or something.
 
 ## Headband
-Pattern: [Mesh Bandana by Hopeful Turns]()
+Pattern: [Mesh Bandana by Hopeful Turns](https://youtu.be/eEeLRKsXpM8?si=FcOAPtT8O2Ttvnol)
 
 [Add image]
 
@@ -68,7 +68,7 @@ Pattern: [Mesh Bandana by Hopeful Turns]()
 This is one of those yarn which I bought without a pattern in mind and brought me a lot of grief. I love love loveeee the colors but they aren't something I would work with to make something for myself, so all the projects I have used this yarn for were gifts. Another thing that made this yarn hard to use was that I didn't have anyone in mind to gift whatever I made this yarn to. This was a one off use because I bought it abroad so I sure learned by lesson to not buy yarn just because!
 
 ## Head scarf
-Pattern: Modified [Head Scarf by  Winding Road Crochet]()
+Pattern: Modified [Head Scarf by  Winding Road Crochet](https://youtu.be/78qVCjvByRw?si=AuJOxiX0SPxNglMX)
 
 [Add image]
 
@@ -88,7 +88,7 @@ With this project I managed to use up both of those yarn balls! The pattern call
 I'm beginning to notice that I don't enjoy patterns where small mistakes end up messing up the stitch count. I spent a whole day modifying this patters by half winging it on a swatch and translating it to such a long row count was soooo stressful! The single crochet rows felt like FOREVER but the double crochet rows went by fast. If I were to do this pattern next time, I would use a larger hook and yarn size... Definitely not a fan of big projects made with anything thinner than a 4 weight.... I have much more respect towards people who make sweaters and larger pieces of clothing. It's a commitment.
 
 ## Scrappy Scrubbie
-Pattern: Modified [Half Moon Washcloth by TLYarnCrafts](), border 
+Pattern: Modified [Half Moon Washcloth by TLYarnCrafts](https://youtu.be/NfBqSohnY48?si=okutNoswmZWzsJqs), [Camel stitch border by TLYarnCrafts](https://youtu.be/WawpDkviwnI?si=1aDDWhQWYJZvCs18).
 
 [Add image]
 
@@ -101,7 +101,7 @@ Pattern: Modified [Half Moon Washcloth by TLYarnCrafts](), border
 - O: Allegro, Tango, color 8/6 Blanco.
 - P: Lily's Sugar and Creme, The Original, color White.
 - Q: Allegro, Vals, 8/12 color Turquesa.
-- N:Allegro, Vals, 8/12 color Blanco.
+- N: Allegro, Vals, 8/12 color Blanco.
 
 ### Notes:
 The final project, good grief! Even after all of these, I still had a good chunk left! I just winged this one, testing for size. It's palm sized and I have a strand long enough to feel substantial but not enough to do something with it so I'm putting that in the stuffing stash.

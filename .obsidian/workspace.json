@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 links/Links.md",
-                "mode": "preview",
+                "file": "04 crafts/2024XmasPresents.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "2024XmasPresents"
             }
           }
         ],
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -169,10 +168,11 @@
   },
   "active": "5a1b43cc813415fa",
   "lastOpenFiles": [
-    "04 crafts/Crafts.md",
-    "04 crafts/GrannyHexagonBlanket.md",
     "04 crafts/LaundryHamper.md",
+    "04 crafts/GrannyHexagonBlanket.md",
     "04 crafts/2024XmasPresents.md",
+    "06 links/Links.md",
+    "04 crafts/Crafts.md",
     "03 writing/SVSSEnglish.md",
     "03 writing/03 longform/Out of Sight, Out of Mind.md",
     "03 writing/Writing.md",
@@ -181,7 +181,6 @@
     "02 web dev/neocities/NeocitiesSite.md",
     "01 now/Now.md",
     "Home.md",
-    "06 links/Links.md",
     "images/1734461550526.jpg",
     "02 web dev/tw-site/06.17.2024.md",
     "images/icon 2.png",
