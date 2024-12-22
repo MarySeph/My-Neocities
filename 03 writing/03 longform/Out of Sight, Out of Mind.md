@@ -18,7 +18,7 @@ Keima collected the dishes after they finished eating. His mother remained at th
 
 Washing the dishes, Keima visibly flinched, "Ah-I, dunno. Kiyoshi is there so I bought it."
 
-A boy?*That* boy? Her son's lack of interest in girls had concerned her for a long time. She hoped that sooner or later he would like a girl, at least behind her back. But after finding out he was dating a boy, not*any* boy but one she had seen grow*up!* "Kei-chan, I told you, you can do better. When are you going to stop to pretend playing house with him?"
+A boy? *That* boy? Her son's lack of interest in girls had concerned her for a long time. She hoped that sooner or later he would like a girl, at least behind her back. But after finding out he was dating a boy, not *any* boy but one she had seen grow *up!* "Kei-chan, I told you, you can do better. When are you going to stop to pretend playing house with him?"
 
 "I'm not pretending," He hissed between teeth.
 
@@ -38,7 +38,7 @@ Why did he have to be with a girl? Why did he have to get married and have kids?
 
 He reached the Nogawa riverbed and slowed down to a trot. Approaching the water, his lungs wheezed for air. He cursed, trying to control his breathing. His vision was hazy. He forgot his inhaler at home. He sat on a patch of grass and closed his eyes, focusing on leveling his breathing.
 
-Opening his eyes, they fell on the magazine. "No one understands," he mumbled. "Romance is this, can't be that. No one gets my version of like." He let out a deep sigh, lowering his head to lean on the rolled up magazine in both hands. He whispered, eyebrows scrunched as if praying, "That's fine. A man must create his own path! My 'like' isn't like other guys' and me and Kiyoshi aren't like*them*." Yet, he couldn't shake a tense feeling in the corner of his mind. It would take a long time for him to acknowledge it, let alone understand it.
+Opening his eyes, they fell on the magazine. "No one understands," he mumbled. "Romance is this, can't be that. No one gets my version of like." He let out a deep sigh, lowering his head to lean on the rolled up magazine in both hands. He whispered, eyebrows scrunched as if praying, "That's fine. A man must create his own path! My 'like' isn't like other guys' and me and Kiyoshi aren't like *them*." Yet, he couldn't shake a tense feeling in the corner of his mind. It would take a long time for him to acknowledge it, let alone understand it.
 
 As if by instinct, he opened his phone and was about to call his best friend but stopped short. Kiyoshi had been his best bud since forever but their relationship had recently changed. What was he doing complaining about his mother when he was involved? Keima felt childish and lame.
 
@@ -46,9 +46,9 @@ As if by instinct, he opened his phone and was about to call his best friend but
 
 With a short call, the boy in question arrived minutes later, pulling a bicycle. He smiled timidly. At first glance, his dirty blonde hair and distinct facial features made you think he was an English-speaking foreigner but the way he carried himself was distinctly Japanese.
 
-A violent sensation almost overwhelmed him. A person he could pick out of a crowd, bright-colored hair or not. Kiyoshi was special. A special friend. A special else. And it was all*his*. Keima wanted to grab him and pull him close but it wasn't appropriate. He grabbed the sides of pants and crumpled the fabric, holding back the urge.
+A violent sensation almost overwhelmed him. A person he could pick out of a crowd, bright-colored hair or not. Kiyoshi was special. A special friend. A special else. And it was all *his*. Keima wanted to grab him and pull him close but it wasn't appropriate. He grabbed the sides of pants and crumpled the fabric, holding back the urge.
 
-"Hachi isn't with you?" The boy asked glancing at his sides before staring above large forest green glasses. They made his eyes look fuller and so*so* cute.
+"Hachi isn't with you?" The boy asked glancing at his sides before staring above large forest green glasses. They made his eyes look fuller and so *so* cute.
 
 "Nah, just me, haha-ha." He wanted to slap himself. "Why the bicycle?"
 
@@ -66,7 +66,7 @@ Kiyoshi fidgeted. "Thank you for buying it. It's not a popular magazine," he sai
 
 "You seeing me. A-actually-" He motioned towards the magazine, covering it with his palm.
 
-Mischief bubbled inside Keima. He*loved* the face Kiyoshi was making. He couldn't have enough of his favorite person's embarrassment. Whatever was bothering him before sunk into the recesses of his mind, disappearing from view.
+Mischief bubbled inside Keima. He *loved* the face Kiyoshi was making. He couldn't have enough of his favorite person's embarrassment. Whatever was bothering him before sunk into the recesses of his mind, disappearing from view.
 
 "But I want to see," he teased. Kiyoshi wasn't the type of person to stand up to others, even less for himself. His feeble attempt at stopping Keima from opening the magazine was a suggestion at best.
 

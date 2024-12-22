@@ -48,35 +48,31 @@ We get some backstory from Qiu Haitang about #SVSSS/OGSQQ that her family bought
 
 That last piece of info is quite interesting in retrospective. If SQQ had as a master someone as vile as Wu Yanzi, he passed that hatred and violence onto OGBinghe who massacred millions in both the Human and Demon Realm. There's a strong theme of intergenerational trauma in this story which I'll keep an eye out. #SVSSS/IntergenTrauma
 
- ### Chapter 7: Water Prison
+### Chapter 7: Water Prison
 #### LBH Wants Answers (pg.97-106)
 This part is so wonderful. I need to type the dialogue word for word. They are talking in the Water Prison while SQQ awaits for a trial that may or may not ruin his reputation in the whole cultivation world.
 
 #SVSSS/Quote 
-    <blockquote>Luo Binghe's expression was sullen; he paced a few circles back and forth, his hands behind his back, then sharply turned around and said in a bitter tone, "I dare ask Shizun, are you going to blame every single last one of the demon race's sins, their murdering and marauding, their crimes and evil deeds, on me?"
-    SQQ's lack of answer made Luo Binghe lazily clench his fist. "Once, you clearly trusted me so much, but now you suspect me of harboring ulterior motives at every turn. Is the difference between realm and race so profound that it could so wholly change your attitude toward someone?"
-    </blockquote>
+> Luo Binghe's expression was sullen; he paced a few circles back and forth, his hands behind his back, then sharply turned around and said in a bitter tone, "I dare ask Shizun, are you going to blame every single last one of the demon race's sins, their murdering and marauding, their crimes and evil deeds, on me?"
+> SQQ's lack of answer made Luo Binghe lazily clench his fist. "Once, you clearly trusted me so much, but now you suspect me of harboring ulterior motives at every turn. Is the difference between realm and race so profound that it could so wholly change your attitude toward someone?"
 
 SQQ answered a question with a question. The damn fool. He asks why LBH became part of Huan Hua palace and turned them to his side. If LBH had no ulterior motive to make them part of his force for mass destruction, then why is he with them?
 
 LBH's answer is so sad.        
-<blockquote>"Shizun doesn't trust me either way. Whether I answer or not, what's the difference?"  
-</blockquote>
+> "Shizun doesn't trust me either way. Whether I answer or not, what's the difference?"  
 
-And then. Oh my god, LBH does want at lease <i>one</i>  answer. He asks SQQ if he regrets kicking him to the Endless Abyss. Answer is, he <i>does</i> regret it. He regretted it so much and he was so torn when the system forced him to do it. The system gives him choices. 1) Be honest about your feelings. 2) Be completely dishonest about his feelings which sounded very much like the scummy villain that inhabited his body. 3) Silence. SQQ chose the third... And Binghe is so sad and angry and the lack of answer just reinforces his misunderstanding AHHHHHH!!!!
+And then. Oh my god, LBH does want at lease *one*  answer. He asks SQQ if he regrets kicking him to the Endless Abyss. Answer is, he *does* regret it. He regretted it so much and he was so torn when the system forced him to do it. The system gives him choices. 1) Be honest about your feelings. 2) Be completely dishonest about his feelings which sounded very much like the scummy villain that inhabited his body. 3) Silence. SQQ chose the third... And Binghe is so sad and angry and the lack of answer just reinforces his misunderstanding AHHHHHH!!!!
 
 Then Luo Binghe acts like a dick and activated the blood parasites to mess with SQQ. SQQ is silent through the whole thing (in LBH's eyes) so LBH says,
 
-<blockquote> "You don't want to look at me, you don't want to talk to me. Do you think I'm filthy?"
-</blockquote>
+> "You don't want to look at me, you don't want to talk to me. Do you think I'm filthy?"
 
 I think he just wanted to get some sort of reaction from SQQ and he went about it through a not very effective way.  
 
 Then LBH accidentally tears SQQ's clothes and is super embarrassed and awkward because he's looking at the man he loves half naked but SQQ interprets that as disgust which like wtf? LBH tosses his outer robe and SQQ doesn't accept on instinct because it reminds him of a trope where he would be the female #SVSSS/SQQMisogyny . But of course LBH interprets it as 
 
 #SVSSS/Quote
-<blockquote> "I almost forgot. Shizun dislikes anything the demon race has touched,"
-</blockquote>
+> "I almost forgot. Shizun dislikes anything the demon race has touched,"
         
 and throws a tantrum, or so SQQ interprets it as. The, SQQ reveals that he was just too shy to accept it in front of LBH and also remarks after that #SVSSS/OGBinghe did this same gesture after he slept with someone.
 

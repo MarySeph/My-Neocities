@@ -7,9 +7,9 @@ Pattern: Inspired by [Michelle Jasek's 24 Days of Granny Squares (#24daysofgrann
 ## Materials
 - Hook: 5.0mm
 - Scissors
-- Yarn needle</li
+- Yarn needle
 
- ### Yarn
+### Yarn
 - A: Red Heart, Value, color Varsity Gold.
 - B: Red Heart, Value, color Rose Pink.
 - C: Red Heart, Value, color Mint.
