@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Out of Sight, Out of Mind
 *published: November 26th, 2024.*
 
@@ -83,3 +85,5 @@ The picture wasn't too bad. The outfit was neither his nor Kiyoshi's style. His 
 He swallowed the knot in his throat and broke into a cheery laugh. They spent a couple of hours chatting about nothing in particular and wandering aimlessly around the neighborhood. Keima drive the bicycle around a local park with Kiyoshi sitting behind. They broke into chocked giggles until Kiyoshi stepped down, unable to handle the embarrassment.
 
 When Keima arrived home, he stuffed the magazine in the bottom of a random drawer, its purpose fulfilled.
+
+![[Footer#^footer]]

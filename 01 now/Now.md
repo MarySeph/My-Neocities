@@ -1,10 +1,12 @@
+![[Nav#^nav]]
+
 # Now
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Check back later.
 **Watching**: Umineko no Naku Koro Ni Episode 7.
 **Writing**: Drafting a historical fiction, omegaverse fic.
-**Crafting**: [[2024XmasPresents]]
+**Crafting**: [[2024XmasPresents (WIP)]]
 **Developing**: This site.
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.
@@ -69,3 +71,5 @@ Decided to take the site's ethos to a more minimalistic, writing-centered approa
 This past couple of weeks have been *hectic*. From a 180 change in environment to the looming end to this mock vacation, I don't know what's going on anymore.
 
 It's been great though! Cohost is gone and I made this website which feels like a natural development of my growing interest in the indie web. I want to get better at front-end web development because it aligns with my professional goals and values, and I wanted to create a space to share my creative hobbies.
+
+![[Footer#^footer]]

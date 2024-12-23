@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Commonplace Notebook: Web Dev
 Table of contents: [[WebDevCommonplace#Web Dev Resources]] / [[WebDevCommonplace#Cool Sites!]] / [[WebDevCommonplace#Web Rings/Cliques]]
 
@@ -73,3 +75,5 @@ notes on things from other websites i wanna imitate.
 - [Mental Heal Circle](https://softheartclinic.neocities.org/mentalhealcircle) (mental health)
 - [Pokering](https://dokode.moe/pokering/) (adopting Pokemon of choice)
 - [ShouJousei Cafe](https://angeleyesprings.neocities.org/webring/shoujosei) (female-oriented media)
+
+![[Footer#^footer]]

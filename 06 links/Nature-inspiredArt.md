@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Nature-Inspired Art
 a collection of artists and their work at the intersection between art, science, and nature.
 
@@ -26,3 +28,5 @@ From field recordings to synth, these artists created pieces inspired by the nat
 - 
 - ### david berry
 - [leaves on a stream - full album](https://youtu.be/nkfvsEBHuQM?si=5pCQTYBlIcXQwW-9).
+
+![[Footer#^footer]]

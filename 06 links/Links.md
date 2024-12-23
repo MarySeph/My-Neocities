@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Links
 Table of Contents: [[Links#Buttons]] / [[Links#Web Rings]] / [[Links#Vibing]]
 
@@ -29,3 +31,5 @@ sites from other indie web developers.
 
 - [[Nature-inspiredArt]] - Ambient music.
 - [Umineko Beats to Dance to](https://open.spotify.com/playlist/5WnPqI707Kjouuz3QQpWRT?si=170747dbe9694c52) - Some sick EDM and violin songs from the visual novel.
+
+![[Footer#^footer]]

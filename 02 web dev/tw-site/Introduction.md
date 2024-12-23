@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 **_original publication date:_** _06.14.2024_  
 _Edited for clarity._
 
@@ -41,3 +43,5 @@ At last but not least, random pieces of writing will come out in either this acc
 To summarize, the purpose of this account is to record and share the development of different pieces of writing including but not limited to front-end web development and non-fiction writing.
 
 I want to join the [/now page movement](https://sive.rs/nowff) and add something like that to either this account or the website.
+
+![[Footer#^footer]]

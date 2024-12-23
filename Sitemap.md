@@ -1,11 +1,12 @@
+![[Nav#^nav]]
+
 # Site Map
 
 A simplified map of this site.
 
-## [[Home]]
-
+## [[+ Home]]
+## [[About]]
 ## [[Now]]
-
 ## [[WebDev]]
 - [[WebDevCommonplace|Commonplace Notebook: Web Dev]]
 - [[NeocitiesSite|Dev Log: Neocities Site]]
@@ -16,11 +17,12 @@ A simplified map of this site.
 - [[Out of Sight, Out of Mind]]
 
 ## [[Crafts]]
-- [[2024XmasPresents]]
-- [[GrannyHexagonBlanket| Stash-busting Granny Hexagon Blanket]]
-- [[LaundryHamper]]
+- [[2024XmasPresents (WIP)]]
+- [[GrannyHexagonBlanket (WIP)| Stash-busting Granny Hexagon Blanket (WIP)]]
+- [[LaundryHamper (WIP)]]
 
 ## [Guestbook](https://maryseph.atabook.org/)
-
 ## [[Links]]
 - [[Nature-inspiredArt]]
+
+![[Footer#^footer]]

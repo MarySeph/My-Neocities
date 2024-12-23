@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Web Dev
 other web development projects.
 
@@ -5,3 +7,5 @@ other web development projects.
 
 - [[NeocitiesSite|Dev Log: Neocities Site]]
 - [[TwSite|Dev Log: Unnamed TiddlyWiki Site]]
+
+![[Footer#^footer]]

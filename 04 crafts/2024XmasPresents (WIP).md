@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # 2024 Scrappy Crochet Christmas Presents
 Start date: 12/14/2024; End date: 12/20/2024.
 
@@ -109,3 +111,5 @@ The final project, good grief! Even after all of these, I still had a good chunk
 I didn't have a self-imposed deadline but there's other things I want to do during this break and I was running out of yarn so I whipped this up out of pure weariness and frustration. I think I'll give it to my brother to use as a whiteboard eraser as he doesn't have one.
 
 I do like how it came out though. I added the borders and the strap with colors Q and N to use up those weight 3 scrap yarn. This is quite the Frankenstein-monster-esque project, haha, and one of those cases where one falls back into the patterns they know by heart without thinking too much about it. I'm satisfied with the result!
+
+![[Footer#^footer]]

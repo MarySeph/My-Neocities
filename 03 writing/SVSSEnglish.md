@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # 2014 ⌨️ Reading Notes - Scum Villain Self-Saving System (Official English)
 Table of Contents: [[SVSSEnglish#Volume 1]] / [[SVSSEnglish#Volume 2]] / 
 
@@ -88,3 +90,5 @@ Whoops, I actually hadn't put a sticky note in this part but I think it's such a
 LBH is jelly his Shizun is wearing a robe from Huan Hua palace. SQQ chides him to not take it out on the robe even if LBH hates him which makes LBH sad. #SVSSS/Quote "Shizun's the one who truly hates me. You're unwilling to associate with even a scrap of my clothing." Yeahhhh, he didn't see SQQ wear his robe before GYX gave him his before escaping the Water Prison.
 
 Talking about GYX, in the #SVSSS/OGTimeline he poor guy got banished from Huan Hua Palace but apparently in the #SVSSS/NewTimeline something happened to him?! Which sadly will be explained a little later.
+
+![[Footer#^footer]]

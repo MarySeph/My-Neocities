@@ -2,8 +2,8 @@
   "livePreview": false,
   "tabSize": 4,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "Cards/Files",
+  "newFileLocation": "root",
+  "attachmentFolderPath": "images",
   "fileSortOrder": "byModifiedTime",
   "mobileToolbarCommands": [
     "editor:insert-wikilink",

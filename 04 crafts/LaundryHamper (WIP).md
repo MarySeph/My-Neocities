@@ -1,3 +1,5 @@
+![[Nav#^nav]]
+
 # Laundry Hamper
 Start date: 12/02/2024; End date: [MM/DD/YYYY].
 Pattern: Modified [Hopeful Turn's Crochet Foldable Market Bag](https://youtu.be/fRoHan83e-c?si=Y2soXvzDk_4Lecdw), and [Sirin's Crochet Basic Chord](https://youtu.be/zd7N9hWUNqc?si=Z4a-9cEVXMnuptFl).
@@ -19,3 +21,5 @@ Pattern: Modified [Hopeful Turn's Crochet Foldable Market Bag](https://youtu.be/
 
 - Base: 16 rounds, 1st round: 8 dc.
 - How many balls used from each color?
+
+![[Footer#^footer]]

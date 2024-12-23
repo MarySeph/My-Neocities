@@ -1,11 +1,14 @@
+![[Nav#^nav]]
+
 # Welcome to my site!
 
 Hullo! My name is Mary!
 
 This is a space to share my creative hobbies like crochet, creative writing, and web development. I'm inspired by the creativity of personal narratives, and the passions of the indie web.
 
-## Site Updates
+## Latest Updates
 ![[SiteUpdates]]
+[[OlderSiteUpdates]]
 
 <!--Aromatic webclique-->
 <p align="center"><a href="http://aromatic.wings.nu/">aromatic</a> // mint</p>
@@ -15,3 +18,5 @@ This is a space to share my creative hobbies like crochet, creative writing, and
 
 <!--Not by AI button-->
 <a href="https://notbyai.fyi">![[Created-By-Human-Not-By-AI-Badge-white.png]]</a>
+
+![[Footer#^footer]]
