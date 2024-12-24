@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/neocities/NeocitiesSite.md",
+                "file": "About.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NeocitiesSite"
+              "title": "About"
             }
           }
         ]
@@ -150,10 +150,10 @@
   },
   "active": "511e7a62590e1d52",
   "lastOpenFiles": [
+    "02 web dev/neocities/NeocitiesSite.md",
     "+ archives/(ARCHIVED) Dev Log_Neocities Site.md",
     "02 web dev/neocities/OlderSiteUpdates.md",
     "+ Home.md",
-    "02 web dev/neocities/NeocitiesSite.md",
     "+ archives/NeocitiesSite.md",
     "About.md",
     "+ archives",

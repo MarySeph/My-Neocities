@@ -1,6 +1,12 @@
 ![[Nav#^nav]]
 
 # About
+
+
+![[Footer#^footer]]
+
+---
+
 What do you want to know about me from this page? It seems like at some point I was able to write these types of pages but nowadays I draw a blank when typing profile descriptions.
 
 Who am I? As far as it concerns to this website, I am creative individual documenting and showcasing arts and crafts. Like many others who gravitate to the indie web, large-scale online social spaces brought some form of discomfort. My experience was filled with struggles to share my creative works in platforms where the light shone on reactionary and derivative content. While as a adult I understand the need to market my talents to future employers, I didn't want that to be the case with casual online accounts.
@@ -14,5 +20,3 @@ As mentioned in [[Home]], the main focus of this site are creative efforts in we
 What else? In [[Writing]], you're likely to find stories set in modern times or heavily-inspired in different cultures. I'm delving into low-fantasy settings with heavy themes such as gender, sexuality, and neurodivergence. Stories will be labeled with ratings, content warnings, and other information I deem potentially upsetting. In general, expect to read something at least recommended for teens.
 
 As for crafts, I mainly do crochet. This is one of those things that would be great to share on major social media but as someone who struggles with perfectionism and likes taking pictures and editing, the amount of work, in my mind, seems so daunting. I also wanted to write long form content and I didn't want to use Instagram like that. Plus, I want to own what I write (that doesn't include what belongs to other creators), so this website is great for that.
-
-![[Footer#^footer]]
