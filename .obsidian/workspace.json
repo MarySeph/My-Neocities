@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "02 web dev/neocities/NeocitiesSite.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "NeocitiesSite"
             }
           }
         ]
@@ -150,12 +150,14 @@
   },
   "active": "511e7a62590e1d52",
   "lastOpenFiles": [
+    "images/kawaiiness - Imgur.png",
+    "images/kawaiiness - Imgur.png.crdownload",
+    "About.md",
     "02 web dev/neocities/NeocitiesSite.md",
     "+ archives/(ARCHIVED) Dev Log_Neocities Site.md",
     "02 web dev/neocities/OlderSiteUpdates.md",
     "+ Home.md",
     "+ archives/NeocitiesSite.md",
-    "About.md",
     "+ archives",
     "02 web dev/neocities/SiteUpdates.md",
     "00 templates/Template, Page.md",
@@ -188,7 +190,6 @@
     "07.29.2024.html",
     "07.03.24.html",
     "07.01.2024.html",
-    "06.26.2024 .html",
     "00 templates/nami/periwinkle/images/photo6.png",
     "00 templates/nami/periwinkle/images/photo5.png",
     "00 templates/nami/periwinkle/images/photo4.png",

@@ -8,8 +8,8 @@ Table of contents: [[NeocitiesSite#Site Plans]] / [[NeocitiesSite#Stuff to Fix]]
 A page to highlight some elements of this site on the web dev side.
 
 ## Site Plans
+- add site favicon
 - a manifesto for the site's ethos.
-
 - Might want to dabble more into responsive web design and use relative sizes according to screen size.
 - Character profiles! Keima, Kiyoshi for starters.
 - Create page for Historical-fiction story and the HSP-isekai one.
