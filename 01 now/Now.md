@@ -6,7 +6,7 @@ this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Check back later.
 **Watching**: Umineko no Naku Koro Ni Episode 7.
 **Writing**: Drafting a historical fiction, omegaverse fic.
-**Crafting**: [[2024XmasPresents (WIP)]]
+**Crafting**: Nothing for now.
 **Developing**: This site.
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.

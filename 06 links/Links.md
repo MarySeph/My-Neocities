@@ -17,6 +17,7 @@ sites from other indie web developers.
 <a href="https://desertjaguar.casa/">![[buttondip.png|100]]<a>
 <a href="https://kalechips.net/">![[button (1).png|100]]</a>
 <a href="https://www.beepbird.net/">![[OwlBanner.gif|100]]</a>
+<a href="https://caitsith.neocities.org/">![[caitbutton.gif]]</a>
 <!--<a href="">![[#]]</a>-->
 
 ## Web Rings

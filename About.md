@@ -2,6 +2,7 @@
 
 # About
 
+![[icon 2.png | 200]]
 
 ![[Footer#^footer]]
 

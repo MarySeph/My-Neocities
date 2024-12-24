@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/neocities/NeocitiesSite.md",
+                "file": "About.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NeocitiesSite"
+              "title": "About"
             }
           }
         ]
@@ -150,35 +150,38 @@
   },
   "active": "511e7a62590e1d52",
   "lastOpenFiles": [
+    "04 crafts/2024XmasPresents (WIP).md",
+    "02 web dev/WebDevCommonplace.md",
+    "02 web dev/WebDev.md",
+    "01 now/Now.md",
+    "+ Home.md",
+    "About.md",
+    "Sitemap.md",
+    "Credits.md",
+    "02 web dev/neocities/SiteUpdates.md",
+    "02 web dev/neocities/OlderSiteUpdates.md",
+    "02 web dev/neocities/NeocitiesSite.md",
+    "04 crafts/Crafts.md",
+    "06 links/Links.md",
+    "images/caitbutton.gif",
+    "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png",
     "images/kawaiiness - Imgur.png.crdownload",
-    "About.md",
-    "02 web dev/neocities/NeocitiesSite.md",
     "+ archives/(ARCHIVED) Dev Log_Neocities Site.md",
-    "02 web dev/neocities/OlderSiteUpdates.md",
-    "+ Home.md",
     "+ archives/NeocitiesSite.md",
     "+ archives",
-    "02 web dev/neocities/SiteUpdates.md",
     "00 templates/Template, Page.md",
     "00 templates",
     "Nav.md",
     "06 links/Nature-inspiredArt.md",
-    "06 links/Links.md",
     "04 crafts/LaundryHamper (WIP).md",
     "04 crafts/GrannyHexagonBlanket (WIP).md",
-    "04 crafts/Crafts.md",
-    "04 crafts/2024XmasPresents (WIP).md",
     "03 writing/Writing.md",
     "03 writing/SVSSEnglish.md",
     "03 writing/03 longform/Out of Sight, Out of Mind.md",
-    "02 web dev/WebDevCommonplace.md",
-    "02 web dev/WebDev.md",
     "02 web dev/tw-site/TwSite.md",
     "02 web dev/tw-site/Introduction.md",
     "02 web dev/tw-site/08.16.2024.md",
-    "02 web dev/tw-site/07.29.2024.md",
-    "02 web dev/tw-site/07.03.2024.md",
     "images/1734461550526.jpg",
     "images/icon 2.png",
     "images/1734464982681.jpg",
@@ -189,12 +192,9 @@
     "08.16.2024 .html",
     "07.29.2024.html",
     "07.03.24.html",
-    "07.01.2024.html",
     "00 templates/nami/periwinkle/images/photo6.png",
     "00 templates/nami/periwinkle/images/photo5.png",
     "00 templates/nami/periwinkle/images/photo4.png",
-    "00 templates/nami/periwinkle/images/photo2.png",
-    "00 templates/nami/periwinkle/images/photo3.png",
-    "00 templates/nami/periwinkle/images/photo1.png"
+    "00 templates/nami/periwinkle/images/photo2.png"
   ]
 }
