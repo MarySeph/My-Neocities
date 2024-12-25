@@ -1,6 +1,6 @@
 ## Site Plans
 - ~~Display unchecked [[NeocitiesSite#Stuff to Fix]]; make archive for older ones.~~
-- ~~Display only latest site update in [[+ Home]]; includes archiving old updates--maybe make a page named [[OlderSiteUpdates]] and put all previous dates there.~~
+- ~~Display only latest site update in [[+ Home]]; includes archiving old updates--maybe make a page named [[UpdateArchive]] and put all previous dates there.~~
 - ~~Display only unchecked [[NeocitiesSite#Site Plans]]; make archive for older ones. [[(ARCHIVED) Dev Log_Neocities Site]]?~~
 - ~~Maybe change some stuff in the header and footer. Bring down guestbook link to footer, add credits to footer. Add about link to footer.~~
 - ~~add [ghost garden's](https://ghostgarden.neocities.org/) TOC style to some pages.~~

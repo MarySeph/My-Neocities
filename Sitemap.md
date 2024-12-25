@@ -6,6 +6,8 @@ A simplified map of this site.
 
 ## [[+ Home]]
 ## [[About]]
+- [[Meta]]
+- [[Layouts]]
 ## [[Now]]
 ## [[WebDev]]
 - [[WebDevCommonplace|Commonplace Notebook: Web Dev]]
