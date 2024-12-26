@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4377413c1439ac2b",
+        "id": "e75e903538a4d829",
         "type": "tabs",
         "children": [
           {
-            "id": "324362f8ff328923",
+            "id": "bcfb474a42d81fd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "+ Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "+ Home"
             }
           }
         ],
@@ -142,17 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "324362f8ff328923",
+  "active": "bcfb474a42d81fd2",
   "lastOpenFiles": [
-    "Sitemap.md",
-    "About.md",
+    "Credits.md",
+    "02 web dev/neocities/UpdateArchive.md",
     "Meta.md",
-    "+ Home.md",
+    "About.md",
     "Layouts.md",
+    "Sitemap.md",
+    "+ Home.md",
     "02 web dev/neocities/SiteUpdates.md",
     "images/Mary'sCreativeCorner-Homepage(Dsktp).png",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
-    "02 web dev/neocities/UpdateArchive.md",
     "Footer.md",
     "+ archives/(archived) Accessibility.md",
     "+ archives/(Archived) Footer.md",
@@ -161,7 +167,6 @@
     "02 web dev/WebDevCommonplace.md",
     "02 web dev/WebDev.md",
     "01 now/Now.md",
-    "Credits.md",
     "04 crafts/Crafts.md",
     "06 links/Links.md",
     "images/caitbutton.gif",
