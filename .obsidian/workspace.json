@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -149,13 +150,16 @@
   },
   "active": "bcfb474a42d81fd2",
   "lastOpenFiles": [
+    "06 links/Links.md",
+    "+ Home.md",
+    "04 crafts/Crafts.md",
+    "03 writing/Writing.md",
     "Credits.md",
     "02 web dev/neocities/UpdateArchive.md",
     "Meta.md",
     "About.md",
     "Layouts.md",
     "Sitemap.md",
-    "+ Home.md",
     "02 web dev/neocities/SiteUpdates.md",
     "images/Mary'sCreativeCorner-Homepage(Dsktp).png",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
@@ -167,8 +171,6 @@
     "02 web dev/WebDevCommonplace.md",
     "02 web dev/WebDev.md",
     "01 now/Now.md",
-    "04 crafts/Crafts.md",
-    "06 links/Links.md",
     "images/caitbutton.gif",
     "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png",
