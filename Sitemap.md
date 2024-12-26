@@ -11,7 +11,7 @@ A simplified map of this site.
 ## [[Now]]
 ## [[WebDev]]
 - [[WebDevCommonplace|Commonplace Notebook: Web Dev]]
-- [[NeocitiesSite|Dev Log: Neocities Site]]
+- [[SitePlans|Dev Log: Neocities Site]]
 - [[TwSite|Dev Log: TiddlyWiki Site]]
 
 ## [[Writing]]

@@ -65,7 +65,8 @@ notes on things from other websites i wanna imitate.
 	- need to look further into it. love to find stuff related to green web design.
 - [Ghost Garden](https://ghostgarden.neocities.org/)
 	- a minimalist table of contents.
-
+- Flight Rising Forums
+	- a LOT of [identity buttons](https://www1.flightrising.com/forums/cc/3078623/1).
 ### Web Rings/Cliques
 - [Aromatic](https://aromatic.wings.nu/about.php) (web dev & scent)
 - [A11y Webring](https://a11y-webring.club/) (Digital Accessibility)

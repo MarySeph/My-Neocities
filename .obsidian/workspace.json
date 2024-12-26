@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bcfb474a42d81fd2",
+            "id": "21a26ad7d7becc4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -127,9 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "+ Home.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of + Home"
             }
           }
         ],
@@ -148,34 +149,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcfb474a42d81fd2",
+  "active": "21a26ad7d7becc4a",
   "lastOpenFiles": [
-    "06 links/Links.md",
-    "+ Home.md",
-    "04 crafts/Crafts.md",
-    "03 writing/Writing.md",
+    "02 web dev/WebDevCommonplace.md",
+    "02 web dev/neocities/SitePlans.md",
     "Credits.md",
+    "+ Home.md",
+    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
+    "Footer.md",
     "02 web dev/neocities/UpdateArchive.md",
     "Meta.md",
-    "About.md",
-    "Layouts.md",
     "Sitemap.md",
+    "Layouts.md",
+    "About.md",
+    "06 links/Links.md",
+    "04 crafts/Crafts.md",
+    "03 writing/Writing.md",
     "02 web dev/neocities/SiteUpdates.md",
     "images/Mary'sCreativeCorner-Homepage(Dsktp).png",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
-    "Footer.md",
     "+ archives/(archived) Accessibility.md",
     "+ archives/(Archived) Footer.md",
-    "02 web dev/neocities/NeocitiesSite.md",
     "04 crafts/2024XmasPresents (WIP).md",
-    "02 web dev/WebDevCommonplace.md",
     "02 web dev/WebDev.md",
     "01 now/Now.md",
     "images/caitbutton.gif",
     "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png",
     "images/kawaiiness - Imgur.png.crdownload",
-    "+ archives/(ARCHIVED) Dev Log_Neocities Site.md",
     "+ archives/NeocitiesSite.md",
     "+ archives",
     "00 templates/Template, Page.md",
