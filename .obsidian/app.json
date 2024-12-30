@@ -30,5 +30,7 @@
   "foldHeading": true,
   "mobileQuickRibbonItem": "graph:Open graph view",
   "showFrontmatter": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "showInlineTitle": false,
+  "showRibbon": false
 }

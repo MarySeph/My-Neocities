@@ -5,11 +5,13 @@
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Check back later.
 **Watching**: Umineko no Naku Koro Ni Episode 7.
-**Writing**: Drafting a historical fiction, omegaverse fic.
+**Writing**: Drafting What Lies Beyond Love and Hate (a historical fiction, omegaverse fic).
 **Crafting**: Nothing for now.
 **Developing**: This site.
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.
+
+## December 27th, 2024
 
 ## December 16th, 2024
  Been a few days home. The weekend was eventful, in a good way. Wondering whether to make a manifesto of sorts about the web design values I want to follow in this site. I have been wanting to add a lot of cute things to my site and I don't know from what point indie web stuff is inaccessible so I feel like I need a guide before making big changes to this site for the sake of aesthetics.
@@ -19,7 +21,6 @@ I'm working on crocheting Christmas presents with the scrap yarn I brought from 
 Apart from developing this site, I have enough things to keep me mentally stimulated which is always a concern for me during the holidays. I'm heading to my last semester in college so there's some things I need to prepare for. Pre-prepare? Haha.
 
 ## December 12th, 2024
-
 The end of a college semester is such a strange time. I feel out of sorts those last few days.
 
 I'm heading back home tomorrow for winter break. Lots of exciting things to come. My brother's birthday, family reunions, Christmas, New Years's, and possibly a trip within the trip.

@@ -8,21 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21a26ad7d7becc4a",
+            "id": "42c0fef81de0e80c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
+                "file": "02 web dev/neocities/SitePlans.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "SitePlans"
+            }
+          },
+          {
+            "id": "7b05ef63703cd4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 web dev/neocities/SitePlans.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SitePlans"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -127,10 +144,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Home.md"
+                "file": "02 web dev/neocities/SitePlans.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of + Home"
+              "title": "Outline of SitePlans"
             }
           }
         ],
@@ -149,30 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21a26ad7d7becc4a",
+  "active": "7b05ef63703cd4d1",
   "lastOpenFiles": [
-    "02 web dev/WebDevCommonplace.md",
     "02 web dev/neocities/SitePlans.md",
-    "Credits.md",
+    "03 writing/00 shrines/Simoun.md",
+    "00 templates/Template, Craft Project.md",
+    "03 writing/00 shrines",
+    "03 writing/00 shrines/Shrines.md",
+    "06 links/Links.md",
+    "02 web dev/neocities/UpdateArchive.md",
+    "02 web dev/neocities/2024 Site Updates.md",
+    "01 now/Now.md",
+    "02 web dev/neocities/SiteUpdates.md",
     "+ Home.md",
+    "02 web dev/WebDevCommonplace.md",
+    "Credits.md",
     "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "Footer.md",
-    "02 web dev/neocities/UpdateArchive.md",
     "Meta.md",
     "Sitemap.md",
     "Layouts.md",
     "About.md",
-    "06 links/Links.md",
     "04 crafts/Crafts.md",
     "03 writing/Writing.md",
-    "02 web dev/neocities/SiteUpdates.md",
     "images/Mary'sCreativeCorner-Homepage(Dsktp).png",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
     "+ archives/(archived) Accessibility.md",
     "+ archives/(Archived) Footer.md",
     "04 crafts/2024XmasPresents (WIP).md",
     "02 web dev/WebDev.md",
-    "01 now/Now.md",
     "images/caitbutton.gif",
     "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png",
@@ -181,10 +203,6 @@
     "+ archives",
     "00 templates/Template, Page.md",
     "00 templates",
-    "Nav.md",
-    "06 links/Nature-inspiredArt.md",
-    "04 crafts/LaundryHamper (WIP).md",
-    "04 crafts/GrannyHexagonBlanket (WIP).md",
     "images/1734461550526.jpg",
     "images/icon 2.png",
     "images/1734464982681.jpg",
@@ -193,7 +211,6 @@
     "tw-site.html",
     "cohost-intro.html",
     "08.16.2024 .html",
-    "07.29.2024.html",
     "00 templates/nami/periwinkle/images/photo6.png",
     "00 templates/nami/periwinkle/images/photo5.png",
     "00 templates/nami/periwinkle/images/photo4.png"
