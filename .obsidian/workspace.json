@@ -14,21 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "02 web dev/neocities/SitePlans.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SitePlans"
-            }
-          },
-          {
-            "id": "7b05ef63703cd4d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 web dev/neocities/SitePlans.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -38,7 +23,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -95,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -144,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 web dev/neocities/SitePlans.md"
+                "file": "06 links/Links.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SitePlans"
+              "title": "Outline of Links"
             }
           }
         ],
@@ -166,22 +149,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b05ef63703cd4d1",
+  "active": "42c0fef81de0e80c",
   "lastOpenFiles": [
+    "06 links/Links.md",
+    "images/button (4).gif",
+    "images/button (5).gif",
+    "02 web dev/WebDevCommonplace.md",
+    "images/button (2).gif",
+    "images/button.gif",
+    "images/45-degree-fabric--light--1920x1080.png",
+    "images/45-degree-fabric--light--1920x1080.png.crdownload",
+    "images/45-degree-fabric-light.png",
+    "images/45-degree-fabric-light.png.crdownload",
+    "02 web dev/WebDev.md",
+    "+ Home.md",
     "02 web dev/neocities/SitePlans.md",
+    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "03 writing/00 shrines/Simoun.md",
     "00 templates/Template, Craft Project.md",
     "03 writing/00 shrines",
     "03 writing/00 shrines/Shrines.md",
-    "06 links/Links.md",
     "02 web dev/neocities/UpdateArchive.md",
     "02 web dev/neocities/2024 Site Updates.md",
     "01 now/Now.md",
     "02 web dev/neocities/SiteUpdates.md",
-    "+ Home.md",
-    "02 web dev/WebDevCommonplace.md",
     "Credits.md",
-    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "Footer.md",
     "Meta.md",
     "Sitemap.md",
@@ -194,25 +186,15 @@
     "+ archives/(archived) Accessibility.md",
     "+ archives/(Archived) Footer.md",
     "04 crafts/2024XmasPresents (WIP).md",
-    "02 web dev/WebDev.md",
     "images/caitbutton.gif",
     "images/caitbutton.gif.crdownload",
     "images/kawaiiness - Imgur.png",
     "images/kawaiiness - Imgur.png.crdownload",
     "+ archives/NeocitiesSite.md",
     "+ archives",
-    "00 templates/Template, Page.md",
     "00 templates",
     "images/1734461550526.jpg",
-    "images/icon 2.png",
-    "images/1734464982681.jpg",
-    "images/Screenshot 2024-07-06 18.54.00.PNG",
     "02 web dev/tw-site",
-    "tw-site.html",
-    "cohost-intro.html",
-    "08.16.2024 .html",
-    "00 templates/nami/periwinkle/images/photo6.png",
-    "00 templates/nami/periwinkle/images/photo5.png",
-    "00 templates/nami/periwinkle/images/photo4.png"
+    "tw-site.html"
   ]
 }

@@ -2,7 +2,6 @@
 ## Design
 - Apply relative sizes.
 - Add space to the left of all text after a title (padding or margin?).
-- Site favicon (mention artist in [[Credits]]).
 ## Structure
 - Share hubs from small creators in [[Links]] outside of Neocities (ex. self-hosted websites, YT channels, Twitch, Wordpress blogs, etc).
 	- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) -
@@ -25,6 +24,6 @@
 - Edit and publish Tadashi and Dashi's story
 - Listfaugraphy page with all sorts of resources (or just add hotkeys to smoothen addition of HTML tags, idk)
 - HSP/self care resources: Ambience music, Meditation (link to Medito), ASMR, etc.
-- Website Button!
+- ~~Website Button!
 
 %%### Completed (Move to ((ARCHIVED)%20Site%20Plans%20&%20Stuff%20to%20Fix.md)]])%%

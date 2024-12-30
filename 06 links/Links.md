@@ -8,6 +8,10 @@ a collection of leads to other parts of the web.
 ## Buttons
 sites from other indie web developers.
 
+![[button.gif]] ![[button (4).gif]] ![[button (5).gif]]
+
+---
+
 <a href="https://dokode.moe">![[dokodemobutton3.gif| 100]]</a>
 <a href="https://nekonokuni.neocities.org">![[button.png |100]]</a>
 <a href="https://oaaky.neocities.org/">![[AdTgkj9.png|100]]</a>
