@@ -1,3 +1,12 @@
+/* Start https://www.cursors-4u.com */
+* {
+	cursor: url(https://cur.cursors-4u.net/nature/nat-4/nat355.ani), 
+	url(https://cur.cursors-4u.net/nature/nat-4/nat355.png), 
+	auto !important;
+}
+
+/* End https://www.cursors-4u.com */
+
 /* Default colors */
 :root {
 	--color: #011523;
