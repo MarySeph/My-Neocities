@@ -23,6 +23,7 @@ sites from other indie web developers.
 <a href="https://www.beepbird.net/">![[OwlBanner.gif|100]]</a>
 <a href="https://caitsith.neocities.org/">![[caitbutton.gif]]</a>
 <!--<a href="">![[#]]</a>-->
+<!--<a href="">![[#]]</a>-->
 
 ## Web Rings
 <a href="https://cwr.beesbuzz.biz/redirect?dir=prev&from=https%3A%2F%2Fmaryseph.neocities.org%2F">&larr;</a> &#124; <a href="https://cwr.beesbuzz.biz/">Ex-Cohost Webring</a> &#124; <a href="https://cwr.beesbuzz.biz/redirect?from=https%3A%2F%2Fmaryseph.neocities.org%2F">&rarr;</a>

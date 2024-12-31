@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/neocities/SitePlans.md",
-                "mode": "source",
+                "file": "+ Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SitePlans"
+              "title": "+ Home"
             }
           }
         ],
@@ -151,6 +151,9 @@
   },
   "active": "42c0fef81de0e80c",
   "lastOpenFiles": [
+    "02 web dev/neocities/SiteUpdates.md",
+    "+ Home.md",
+    "02 web dev/neocities/SitePlans.md",
     "06 links/Links.md",
     "images/button (4).gif",
     "images/button (5).gif",
@@ -162,8 +165,6 @@
     "images/45-degree-fabric-light.png",
     "images/45-degree-fabric-light.png.crdownload",
     "02 web dev/WebDev.md",
-    "+ Home.md",
-    "02 web dev/neocities/SitePlans.md",
     "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "03 writing/00 shrines/Simoun.md",
     "00 templates/Template, Craft Project.md",
@@ -172,7 +173,6 @@
     "02 web dev/neocities/UpdateArchive.md",
     "02 web dev/neocities/2024 Site Updates.md",
     "01 now/Now.md",
-    "02 web dev/neocities/SiteUpdates.md",
     "Credits.md",
     "Footer.md",
     "Meta.md",

@@ -9,7 +9,7 @@ This is a space to share my creative hobbies like crochet, creative writing, and
 ![[SitePlans#Site Plans]]
 
 ## Latest Updates
-![[SiteUpdates#December 16th, 2024]]
+![[SiteUpdates#December 27th, 2024]]
 > [[UpdateArchive | Older Updates]]
 
 ## Writing
