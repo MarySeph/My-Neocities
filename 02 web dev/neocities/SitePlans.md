@@ -14,7 +14,7 @@
 	- [nochitamama](https://www.twitch.tv/nochitamama) - Japanese crocheter who streams while working.
 	- [youohei](https://www.twitch.tv/yoouhei) - Japanese felt crafter who encourages English speakers to interact. Sings and plays the guitar super well.
 	- [Dawn H.](https://dawnahwriting.wordpress.com/) - Wordpress website from an online friend. She's currently revising and posting her stories from her college days.
-	- [Lyrical]() - another Wattpad friend. They are publishing quite the ambitious a high-fantasy story.
+	- [Lyrical](https://www.wattpad.com/user/exLyrical) - another Wattpad friend. They are publishing quite the ambitious a epic fantasy story.
 - a manifesto for the site's ethos.
 - Add notes about responsive web design.
 ## Both

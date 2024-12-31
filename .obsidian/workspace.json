@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Home.md",
-                "mode": "preview",
+                "file": "02 web dev/neocities/SitePlans.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "+ Home"
+              "title": "SitePlans"
             }
           }
         ],
@@ -152,8 +152,8 @@
   },
   "active": "42c0fef81de0e80c",
   "lastOpenFiles": [
-    "Layouts.md",
     "+ Home.md",
+    "Layouts.md",
     "().md",
     "02 web dev/neocities/SiteUpdates.md",
     "02 web dev/neocities/SitePlans.md",
