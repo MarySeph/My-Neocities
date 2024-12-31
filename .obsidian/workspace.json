@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -151,8 +152,10 @@
   },
   "active": "42c0fef81de0e80c",
   "lastOpenFiles": [
-    "02 web dev/neocities/SiteUpdates.md",
+    "Layouts.md",
     "+ Home.md",
+    "().md",
+    "02 web dev/neocities/SiteUpdates.md",
     "02 web dev/neocities/SitePlans.md",
     "06 links/Links.md",
     "images/button (4).gif",
@@ -177,7 +180,6 @@
     "Footer.md",
     "Meta.md",
     "Sitemap.md",
-    "Layouts.md",
     "About.md",
     "04 crafts/Crafts.md",
     "03 writing/Writing.md",
