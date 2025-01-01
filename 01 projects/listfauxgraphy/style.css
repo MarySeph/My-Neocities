@@ -1,39 +1,172 @@
 :root {
     /* Page background */
-    --background:#4a7a68;
+    /*--background:#4a7a68;*/
+    background: url('green_dust_scratch.png');
     
     /* Universal text and link colors */
-    --color:#2e2311;
-    --link:#562607;
+    --color:/*#2e2311;*/ #011523;
+    --link:/*#562607;*/ #1f3135;
     
     /* Font family (can include fallbacks) */
     --bodyfont: sans-serif;
 
     /* List background colors */
-    --color1: #bfbf71;
-    --color2: #d4c56c;
-    --color3: #e8b86e;
-    --color4: #a5c7a7;
-    --color5: #c39374;
+    --color1: /*#bfbf71;*/ rgba(9, 188, 176, 0.3);
+    --color2: /*#d4c56c;*/ rgba(17, 200, 224, 0.3);
+    --color3: /*#e8b86e;*/ rgba(58, 101, 209, 0.3);
+    --color4: /*#a5c7a7;*/ rgba(33, 188, 170, 0.3);
+    --color5: /*#c39374;*/ rgba(19, 175, 115, 0.3);
+    --color6: rgba(67, 51, 191, 0.3);
     
     /* Borders for each background color */
-    --color1border:#4c4c03;
-    --color2border:#624a04;
-    --color3border:#5a3702;
-    --color4border:#2f5131;
-    --color5border:#522508;
+    --color1border:/*#4c4c03;*/ #68a49f;
+    --color2border:/*#624a04;*/ #5ea2a9;
+    --color3border:/*#5a3702;*/ #196087;
+    --color4border:/*#2f5131;*/ #1bad9c;
+    --color5border:/*#522508;*/ #308760;
+    --color6border: #5e6a8e;
     
     /* Header background and border */
-    --header: #a5c7a7;
+    --header: /*#a5c7a7;*/ rgba(77, 174, 198, 0.3);
     --headerborder:#2f5131;
     
     /* Scrollbars */
-    --scrollbg:#89b48b;
-    --scrollcolor:#66432f;
+    --scrollbg:/*#89b48b;*/ #464c89;
+    --scrollcolor:/*#66432f;*/ #90c2f7;
+
+    /* CHANGE THESE TO CHANGE THE LIST COLORS 
+        .drizzle,
+        .blue,
+        .blur,
+        .leaves,
+        .raindrops,
+        .lavender {
+            margin-top: 30px;
+            box-shadow: rgba(0, 0, 0, 0.1) -2px 2px 7px;
+            border-radius: 5px;
+        }
+    
+        .drizzle {
+            background: rgba(9, 188, 176, 0.3)
+        }
+    
+        .drizzle .head {
+            border-color: #68a49f;
+        }
+    
+        .drizzle .foot,
+        .drizzle a,
+        .drizzle .read-more {
+            color: #68a49f;
+        }
+    
+        .blue {
+            background: rgba(17, 200, 224, 0.3);
+        }
+    
+        .blue .head {
+            border-color: #5ea2a9;
+        }
+    
+        .blue .foot,
+        .blue a,
+        .blue .read-more {
+            color: #5ea2a9;
+        }
+    
+        .blur {
+            background: rgba(58, 101, 209, 0.3);
+        }
+    
+        .blur .head {
+            border-color: #196087;
+        }
+    
+        .blur .foot,
+        .blur a,
+        .blur .read-more {
+            color: #196087;
+        }
+    
+        .leaves {
+            background: rgba(33, 188, 170, 0.3)
+        }
+    
+        .leaves .head {
+            border-color: #1bad9c;
+        }
+    
+        .leaves .foot,
+        .leaves a,
+        .leaves .read-more {
+            color: #1bad9c;
+        }
+    
+        .raindrops {
+            background: rgba(19, 175, 115, 0.3)
+        }
+    
+        .raindrops .head {
+            border-color: #308760;
+        }
+    
+        .raindrops .foot,
+        .raindrops a,
+        .raindrops .read-more {
+            color: #308760;
+        }
+    
+        .lavender {
+            background: rgba(67, 51, 191, 0.3)
+        }
+    
+        .lavender .head {
+            border-color: #5e6a8e;
+        }
+    
+        .lavender .foot,
+        .lavender a,
+        .lavender .read-more {
+            color: #5e6a8e;
+        }*/
+
+/* COPY OF OG COLOR SCHEMES
+ /* Page background *
+ --background:#4a7a68;
+
+ /* Universal text and link colors *
+ --color:#2e2311;
+ --link:#562607;
+
+ /* Font family (can include fallbacks) *
+ --bodyfont: sans-serif;
+
+ /* List background colors *
+ --color1: #bfbf71;
+ --color2: #d4c56c;
+ --color3: #e8b86e;
+ --color4: #a5c7a7;
+ --color5: #c39374;
+
+ /* Borders for each background color *
+ --color1border:#4c4c03;
+ --color2border:#624a04;
+ --color3border:#5a3702;
+ --color4border:#2f5131;
+ --color5border:#522508;
+
+ /* Header background and border *
+ --header: #a5c7a7;
+ --headerborder:#2f5131;
+
+ /* Scrollbars *
+ --scrollbg:#89b48b;
+ --scrollcolor:#66432f;
+ */
 
 }
 
-* { margin:0; padding:0; scrollbar-color: var(--scrollcolor) var(--scrollbg);}
+* { margin:0; padding:0; scrollbar-color: var(--scrollcolor) var(--scrollbg); scrollbar-width: thin;}
 
 body {
     background: var(--background);
@@ -212,6 +345,19 @@ section {
     
     & .handle {
         color:var(--color5border);
+    }
+}
+
+.color6 {
+    background: var(--color6);
+    border-color: var(--color6border);
+
+    & .listheader {
+        border-color: var(--color6border);
+    }
+
+    & .handle {
+        color: var(--color6border);
     }
 }
 
