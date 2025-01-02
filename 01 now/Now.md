@@ -3,7 +3,7 @@
 # Now
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
-**Reading**: Check back later.
+**Reading**: Frankenstein, or the Modern Prometheus.
 **Watching**: Umineko no Naku Koro Ni Episode 7.
 **Writing**: Drafting What Lies Beyond Love and Hate (a historical fiction, omegaverse fic).
 **Crafting**: Nothing for now.
@@ -11,7 +11,12 @@ this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.
 
-## December 27th, 2024
+## January 1st, 2025
+Wow, WOW! We actually made it. The celebration was so exciting. Nothing to complain about. I managed to write things I wanted to leave behind and share this opportunity with my family and burned all those papers with the mannequins on New Year's Day. The food was delicious. I received a lovely dotted notebook. Despite having a severe toothache, I feel light.
+
+Website-wise, I'm testing things behind the scenes like Kalechips' lisfauxgraphy code and a draft for a shrine for Simoun. I'm also working on What Likes Beyond Love and Hate. 
+
+On another topic, I finally took the leap to use extensions to keep myself accountable on what sites I spend the most time on my laptop. My phone has the Digital Well-being app and YourHour to limit the use of some apps and I wanted to bring that same mindfulness to my laptop. I am using [Unhook](https://chromewebstore.google.com/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid) and [Superfocus](https://chromewebstore.google.com/detail/superfocus-time-tracker-b/dboceidahklphhjpfbpnicodnbkoiokn/reviews). The former is specifically for YT, hiding sections like Shorts, Mixes, Recommended, and Live Chat. Superfocus tackles a wider range of addictive social media apps. At the moment, it hides my YT Feed which is such a crazy change. Now I just have my Subscriptions list to watch content. This is doing something to my brain I'm not sure if I will keep but I'm definitely spending less time on the site which I'm putting on other places that are more meaningful (like this site!).
 
 ## December 16th, 2024
  Been a few days home. The weekend was eventful, in a good way. Wondering whether to make a manifesto of sorts about the web design values I want to follow in this site. I have been wanting to add a lot of cute things to my site and I don't know from what point indie web stuff is inaccessible so I feel like I need a guide before making big changes to this site for the sake of aesthetics.

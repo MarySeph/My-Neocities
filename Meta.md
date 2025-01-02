@@ -5,11 +5,11 @@ Table of Contents: [[Meta#Accessibility]] / [[Meta#Color schemes]]
 
 > [[UpdateArchive]] | [[Layouts]]
 
-This site is being developed with [Obsidian](https://obsidian.md/) using markdown then converted to HTML in VSCode before being uploaded to Neocities. 
+This site is being developed with [Obsidian](https://obsidian.md/)-flavored markdown then converted to HTML in VSCode before being uploaded to Neocities.
 
 The site's [source code](https://github.com/MarySeph/Marys-Creative-Corner) and a [page template](https://github.com/MarySeph/Marys-Creative-Corner/blob/main/template.htm) are available on Github for download.
 
-Copyright statement of this site is still pending as I figure that out.
+Copyright statement of this site is pending.
 
 ## Accessibility
 This website has been designed to be responsible on mobile and desktop. See below for potential accessibility issues.
@@ -19,8 +19,8 @@ There are some iframes that I'm not sure if they pose an issue. A search didn't 
 **Disclaimer:** I don't use a screen reader or any other type of assistive device to surf the web. If there's any section of this website that is inaccessible, [please drop me a message](https://maryseph.atabook.org/). I'm an indie web dev who's learning about web accessibility and would appreciate the feedback.
 
 ### Stuff to Fix
-- Fix syntax in [[Credits]].
-- Fix syntax in [[Meta#Stuff to Fix]].
+- Fix HTML syntax in [[Credits]].
+- Fix HTML syntax in [[Meta#Stuff to Fix]].
 
 ## Color schemes
 ### Light Mode

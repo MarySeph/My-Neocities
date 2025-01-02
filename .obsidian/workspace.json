@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42c0fef81de0e80c",
+            "id": "03313ee4dcb68837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 web dev/neocities/SitePlans.md",
+                "file": "Credits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SitePlans"
+              "title": "Credits"
             }
           }
         ],
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76e33c0abeb3f334",
@@ -128,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 links/Links.md"
+                "file": "+ Home.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Links"
+              "title": "Outline of + Home"
             }
           }
         ],
@@ -150,35 +149,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c0fef81de0e80c",
+  "active": "03313ee4dcb68837",
   "lastOpenFiles": [
     "+ Home.md",
-    "Layouts.md",
-    "().md",
-    "02 web dev/neocities/SiteUpdates.md",
     "02 web dev/neocities/SitePlans.md",
+    "02 web dev/WebDevCommonplace.md",
+    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
+    "02 web dev/WebDev.md",
+    "01 now/Now.md",
+    "Credits.md",
+    "Meta.md",
+    "Layouts.md",
+    "02 web dev/neocities/SiteUpdates.md",
+    "().md",
     "06 links/Links.md",
     "images/button (4).gif",
     "images/button (5).gif",
-    "02 web dev/WebDevCommonplace.md",
     "images/button (2).gif",
     "images/button.gif",
     "images/45-degree-fabric--light--1920x1080.png",
     "images/45-degree-fabric--light--1920x1080.png.crdownload",
     "images/45-degree-fabric-light.png",
     "images/45-degree-fabric-light.png.crdownload",
-    "02 web dev/WebDev.md",
-    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "03 writing/00 shrines/Simoun.md",
     "00 templates/Template, Craft Project.md",
     "03 writing/00 shrines",
     "03 writing/00 shrines/Shrines.md",
     "02 web dev/neocities/UpdateArchive.md",
     "02 web dev/neocities/2024 Site Updates.md",
-    "01 now/Now.md",
-    "Credits.md",
     "Footer.md",
-    "Meta.md",
     "Sitemap.md",
     "About.md",
     "04 crafts/Crafts.md",

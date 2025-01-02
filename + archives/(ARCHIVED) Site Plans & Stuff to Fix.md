@@ -32,6 +32,8 @@
 - Clap and access counters
 - Template page
 - Guestbook
+- Website Button!
+- Try out Listfauxgraphy ([Summer Dream's version (OG)](https://summerstorms.me/Thoughts/Listfauxgraphy) & [Kalechips' version](https://kalechips.net/projects/code/listfauxgraphy)) with [[WebDevCommonplace]], [[SitePlans]], and [[(ARCHIVED) Site Plans & Stuff to Fix]].
 
 ## From [[Meta#Stuff to Fix]]
 - alt image descriptions

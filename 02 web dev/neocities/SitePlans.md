@@ -22,11 +22,15 @@
 - Design [[Layouts#Version 1.1 | 1.1 Layout]].
 - Add buttons, stickers, etc while respecting accessibility principles.
 ## Other
-- Character profiles! Keima, Kiyoshi for starters.
-- Create page for Historical-fiction story and the HSP-isekai one.
-- Edit and publish Tadashi and Dashi's story
-- *Listfaugraphy page with all sorts of resources (or just add hotkeys to smoothen addition of HTML tags, idk)
-- *HSP/self care resources: Ambience music, Meditation (link to Medito), ASMR, etc.
-- ~~Website Button!
+- Character profiles for Keima and Kiyoshi.
+- Create homepage for What Lies Beyond Love and Hate.
+	- Maybe use modified Listfauxgraphy code.
+- Edit and publish Tadashi and Dashi's story.
+- HSP/self care resources listfauxgraphy: Ambience music, Meditation (link to Medito), ASMR, etc.
+	- Ambiance music: [MindSpaceEscape](https://www.youtube.com/@MindspaceEscape), [The House of Ambiance](https://www.youtube.com/@thehouseofambience), [nobody](https://www.youtube.com/@NaturalRelaxingSounds), [Natural Relaxing Sounds](https://www.youtube.com/@NaturalRelaxingSounds).
+	- Meditation: 
+	- ASMR: [Nefertiti ASMR](https://youtube.com/@nefertitiasmr565)
+	- https://purrli.com/
+	- [Link to self-care guide article]()
 
 %%### Completed (Move to ((ARCHIVED)%20Site%20Plans%20&%20Stuff%20to%20Fix.md)]])%%
