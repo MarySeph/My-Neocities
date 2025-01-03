@@ -22,6 +22,7 @@ assorted links to web dev stuff to try out.
 - [IndieWeb.org](https://indieweb.org/).
 - [Another free static website hosting service](https://nekoweb.org/).
 - [Front-end professional certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+- [Tamagotchi-inspired virtual pet](https://tamanotchi.world/).
 
 ### Graphic Resources
 - [Pixels & favicons](https://pixels.crd.co/), [more favicons](https://kawaiiness.net/favicons.php).
