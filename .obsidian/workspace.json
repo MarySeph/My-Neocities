@@ -11,10 +11,15 @@
             "id": "cec3a45cc385d7e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 links/Links.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Links"
             }
           }
         ]
@@ -122,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Home.md"
+                "file": "06 links/Links.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of + Home"
+              "title": "Outline of Links"
             }
           }
         ],
@@ -146,15 +151,17 @@
   },
   "active": "cec3a45cc385d7e6",
   "lastOpenFiles": [
+    "04 crafts/Crafts.md",
+    "03 writing/Writing.md",
+    "02 web dev/WebDev.md",
+    "02 web dev/neocities/SitePlans.md",
     "02 web dev/WebDevCommonplace.md",
     "06 links/Links.md",
-    "02 web dev/neocities/SitePlans.md",
     "+ Home.md",
     "Nav.md",
     "Site Manifesto.md",
     "Credits.md",
     "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
-    "02 web dev/WebDev.md",
     "01 now/Now.md",
     "Meta.md",
     "Layouts.md",
@@ -177,8 +184,6 @@
     "Footer.md",
     "Sitemap.md",
     "About.md",
-    "04 crafts/Crafts.md",
-    "03 writing/Writing.md",
     "images/Mary'sCreativeCorner-Homepage(Dsktp).png",
     "images/Mary's Creative Corner - Homepage (Dsktp)",
     "+ archives/(archived) Accessibility.md",

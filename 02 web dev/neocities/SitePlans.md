@@ -5,7 +5,7 @@
 ## Structure
 - create RSS feed.
 - Share hubs from small creators in [[Links]] outside of Neocities (ex. self-hosted websites, YT channels, Twitch, Wordpress blogs, etc).
-	- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) -
+	%%- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) -
 	- [shar](https://www.youtube.com/@shar) - digital artist and animator from the Philippines who has some super cute videos.
 	- [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) - British man living in Japan who has been making TV-quality travel blogs for about ten years.
 	- [AmelieDoree](https://www.youtube.com/@AmelieDoree) - transwoman reviewing Japanese retro games.
@@ -17,7 +17,7 @@
 	- [Lyrical](https://www.wattpad.com/user/exLyrical) - another Wattpad friend. They are publishing quite the ambitious a epic fantasy story.
 	- [Mr. Circus Papa](https://tapas.io/MrCircusPapa) - horror comic artist. Their artstyle may be cute but their stories portray heavy topics without pulling any punches.
 	- [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. humongous amount of character customization and inclusive dialogue choices in the widest sense of the word. 
-	- [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - YT channels that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure (which probably warrants a 13+ warning).
+	- [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - YT channels that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure (which probably warrants a 13+ warning).%%
 - a manifesto for the site's ethos.
 - Add notes about responsive web design.
 ## Both
@@ -30,10 +30,10 @@
 	- Maybe use modified Listfauxgraphy code.
 - Edit and publish Tadashi and Dashi's story.
 - HSP/self care resources listfauxgraphy: Ambience music, Meditation (link to Medito), ASMR, etc.
-	- Ambiance music: [MindSpaceEscape](https://www.youtube.com/@MindspaceEscape), [The House of Ambiance](https://www.youtube.com/@thehouseofambience), [nobody](https://www.youtube.com/@NaturalRelaxingSounds), [Natural Relaxing Sounds](https://www.youtube.com/@NaturalRelaxingSounds), [Beautiful River Ambience | Soothing & Relaxing Sounds of Nature (video)](https://www.youtube.com/watch?v=u6YjCKANgZ0&list=PLg9jwr3FQbeEYpecfMgYJvlhm1rr4cfUT&index=4)
+	%%- Ambiance music: [MindSpaceEscape](https://www.youtube.com/@MindspaceEscape), [The House of Ambiance](https://www.youtube.com/@thehouseofambience), [nobody](https://www.youtube.com/@NaturalRelaxingSounds), [Natural Relaxing Sounds](https://www.youtube.com/@NaturalRelaxingSounds), [Beautiful River Ambience | Soothing & Relaxing Sounds of Nature (video)](https://www.youtube.com/watch?v=u6YjCKANgZ0&list=PLg9jwr3FQbeEYpecfMgYJvlhm1rr4cfUT&index=4)
 	- Meditation: [Medito (free app)](https://meditofoundation.org/medito-app), 
 	- ASMR: [Nefertiti ASMR](https://youtube.com/@nefertitiasmr565)
 	- https://purrli.com/
-	- [Link to self-care guide article]()
+	- [Link to self-care guide article]()%%
 
 %%### Completed (Move to ((ARCHIVED)%20Site%20Plans%20&%20Stuff%20to%20Fix.md)]])%%

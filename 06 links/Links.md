@@ -3,7 +3,7 @@
 # Links
 Table of Contents: [[Links#Buttons]] / [[Links#Web Rings]] / [[Links#Vibing]]
 
-a collection of leads to other parts of the web.
+a collection of leads to other parts of the world wide web.
 
 - [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) -
 - [shar](https://www.youtube.com/@shar) - digital artist and animator from the Philippines who has some super cute videos.
@@ -16,11 +16,11 @@ a collection of leads to other parts of the web.
 - [Dawn H.](https://dawnahwriting.wordpress.com/) - Wordpress website from an online friend. She's currently revising and posting her stories from her college days.
 - [Lyrical](https://www.wattpad.com/user/exLyrical) - another Wattpad friend. They are publishing quite the ambitious a epic fantasy story.
 - [Mr. Circus Papa](https://tapas.io/MrCircusPapa) - horror comic artist. Their artstyle may be cute but their stories portray heavy topics without pulling any punches.
-- [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. "Inclusive" in the widest sense of the word.. 
+- [GBPatch](https://gbpatch.itch.io/) - visual novel game dev studio of the cozy and queer variety. "Inclusive" in the widest sense of the word.
 - [Linfamy](https://www.youtube.com/channel/UCBkqDNqao03ldC3u78-Pp8g) - Japenese-American that covers Japanese history and folktales. heavy focus on the female experience and the business of pleasure.
 
 ## Buttons
-sites from other indie web developers.
+websites of other indie web developers.
 
 ![[button.gif]] ![[button (4).gif]] ![[button (5).gif]]
 
