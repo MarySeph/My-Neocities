@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 links/Links.md",
-                "mode": "preview",
+                "file": "01 now/Now.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "Now"
+            }
+          },
+          {
+            "id": "c9d0d005827d0e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Site Manifesto.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Site Manifesto"
             }
           }
         ]
@@ -127,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 links/Links.md"
+                "file": "01 now/Now.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Links"
+              "title": "Outline of Now"
             }
           }
         ],
@@ -151,18 +166,18 @@
   },
   "active": "cec3a45cc385d7e6",
   "lastOpenFiles": [
+    "02 web dev/neocities/SitePlans.md",
+    "Site Manifesto.md",
+    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
+    "06 links/Links.md",
+    "01 now/Now.md",
     "04 crafts/Crafts.md",
     "03 writing/Writing.md",
     "02 web dev/WebDev.md",
-    "02 web dev/neocities/SitePlans.md",
     "02 web dev/WebDevCommonplace.md",
-    "06 links/Links.md",
     "+ Home.md",
     "Nav.md",
-    "Site Manifesto.md",
     "Credits.md",
-    "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
-    "01 now/Now.md",
     "Meta.md",
     "Layouts.md",
     "02 web dev/neocities/SiteUpdates.md",

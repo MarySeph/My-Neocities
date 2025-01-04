@@ -5,7 +5,7 @@ Table of Contents: [[Links#Buttons]] / [[Links#Web Rings]] / [[Links#Vibing]]
 
 a collection of leads to other parts of the world wide web.
 
-- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) -
+- [Rajiv Surendra](https://www.youtube.com/@rajivsurendra) - do you like, no LOVE HGTV and other TV channels/programs on domestic arts? This channel is basically that. bonus points for making me want to become a better human being. sure few online content can do *that*.
 - [shar](https://www.youtube.com/@shar) - digital artist and animator from the Philippines who has some super cute videos.
 - [Abroad in Japan](https://www.youtube.com/@AbroadinJapan) - British man living in Japan who has been making TV-quality travel blogs for about ten years.
 - [AmelieDoree](httexps://www.youtube.com/@AmelieDoree) - transwoman reviewing Japanese retro games.
