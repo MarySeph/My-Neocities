@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "01 now/Now.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -166,11 +166,11 @@
   },
   "active": "cec3a45cc385d7e6",
   "lastOpenFiles": [
-    "02 web dev/neocities/SitePlans.md",
     "Site Manifesto.md",
+    "01 now/Now.md",
+    "02 web dev/neocities/SitePlans.md",
     "+ archives/(ARCHIVED) Site Plans & Stuff to Fix.md",
     "06 links/Links.md",
-    "01 now/Now.md",
     "04 crafts/Crafts.md",
     "03 writing/Writing.md",
     "02 web dev/WebDev.md",
