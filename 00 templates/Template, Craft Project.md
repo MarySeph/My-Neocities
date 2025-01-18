@@ -1,5 +1,7 @@
-# Project Name
-<small>Start date: [MM/DD/YYYY]; End date: [MM/DD/YYYY].</small>
+![[Nav#^nav]]
+
+# {{title}}
+<small>Start date: {{date}}; End date: [MM/DD/YYYY].</small>
 <small>Pattern: Self-drafted or <a href="">[Add link]</a></small>
 ![[Add image]]
     
@@ -15,3 +17,5 @@
 
 ## Notes:
 [add text]
+
+![[Footer#^footer]]

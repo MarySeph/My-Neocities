@@ -10,6 +10,8 @@
 - Shrines: [[Simoun]].
 - Design [[Layouts#Version 1.1 | 1.1 Layout]].
 - Add buttons, stickers, etc while respecting accessibility principles.
+- Environmental Friendly Alternatives (based on BuJo spread).
+- [[Crochet Bath Set Collection (WIP)]]
 ## Other
 - Character profiles for Keima and Kiyoshi.
 - Create homepage for What Lies Beyond Love and Hate.

@@ -4,9 +4,9 @@
 
 this page is about what I'm up to right [meow](https://nownownow.com/about).
 **Reading**: Frankenstein, or the Modern Prometheus.
-**Watching**: Umineko no Naku Koro Ni Episode 7.
+**Watching**: Umineko no Naku Koro Ni Episode 8.
 **Writing**: What Lies Beyond Love and Hate (a historical fiction, omegaverse fic).
-**Crafting**: Nothing for now.
+**Crafting**: [[Slouchy Robin Beanie (WIP)]], [[Orange Slice Coasters (WIP)]] [[LaundryHamper (WIP)]].
 **Developing**: Self-care resources, site manifesto.
 **Learning**: Front-end web development.
 **Feeling**: Comfortable.
